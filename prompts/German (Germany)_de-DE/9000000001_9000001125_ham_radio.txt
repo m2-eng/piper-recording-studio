@@ -1,0 +1,1125 @@
+9000000001	Hallo liebe Funkfreunde, hier ist der Württemberg-Rundspruch des Deutschen Amateur-Radio-Clubs, Distrikt Württemberg, für die 49. Kalenderwoche des Jahres 2024.
+9000000002	Wir beginnen mit den Nachrichten aus dem Distrikt Württemberg.
+9000000003	Die Württembergische Amateurfunk-Notfunkübung findet am Samstag, den 9. November 2024, von 10:00 bis 12:00 Uhr statt.
+9000000004	"Das Thema der Übung lautet ""Kommunikation bei Stromausfall""."
+9000000005	Weitere Informationen und die Anmeldung zur Übung sind auf der DARC-Website unter www.darc.de/wuerttemberg/notfunk zu finden.
+9000000006	Am Samstag, den 16. November 2024, veranstaltet der Ortsverband Heidenheim, DOK P04, einen Tag der offenen Tür in seinem Clubheim.
+9000000007	Interessierte sind herzlich eingeladen, die Welt des Amateurfunks kennenzulernen.
+9000000008	Das Clubheim befindet sich in der Musterstraße 12 in Heidenheim.
+9000000009	Der Tag der offenen Tür beginnt um 14:00 Uhr und endet um 18:00 Uhr.
+9000000010	Am Sonntag, den 24. November 2024, findet die jährliche Mitgliederversammlung des DARC-Distrikts Württemberg statt.
+9000000011	"Die Versammlung beginnt um 10:00 Uhr im Gasthof ""Zum Funker"" in Stuttgart."
+9000000012	Alle Mitglieder des Distrikts sind herzlich eingeladen, teilzunehmen.
+9000000013	"Am Samstag, den 30. November 2024, veranstaltet der Ortsverband Ulm, DOK P14, einen Workshop zum Thema ""Digitale Betriebsarten im Amateurfunk""."
+9000000014	Der Workshop findet im Clubheim des Ortsverbands in der Bahnhofstraße 5 in Ulm statt.
+9000000015	Interessierte Funkamateure sind eingeladen, an dem Workshop teilzunehmen.
+9000000016	Der Workshop beginnt um 10:00 Uhr und endet um 16:00 Uhr.
+9000000017	Amateur Radio Württemberg wünscht allen Funkamateuren viel Erfolg bei ihren Aktivitäten und einen guten DX.
+9000000018	Die Radio Regulations der International Telecommunication Union (ITU) aktualisierte ihre Bestimmungen für den Amateurfunkdienst.
+9000000019	Neues gibt es auch von der Federal Communications Commission (FCC) in den USA bezüglich der Amateurfunklizenzierung.
+9000000020	Die Betriebsarten AM, FM oder SSB (Single Sideband) sind im Amateurfunk weit verbreitet.
+9000000021	Neue Betriebsarten wie RTTY (Radio Teletype) und PSK31 (Phase Shift Keying) gewinnen zunehmend an Beliebtheit.
+9000000022	Packet Radio und APRS (Automatic Packet Reporting System) ermöglichen die digitale Kommunikation über Funk.
+9000000023	In Zukunft gewinnen Software Defined Radio (SDR) und digitale Modulationstechniken wie FT8 und DMR (Digital Mobile Radio) immer mehr an Bedeutung.
+9000000024	Impedanzanpassung ist entscheidend für die optimale Leistung von Antennen und Funkgeräten.
+9000000025	Der QO-100 ist ein OSCAR (Orbiting Satellite Carrying Amateur Radio)-Satellit, der Amateurfunkern weltweit Zugang zu Satellitenkommunikation bietet.
+9000000026	ARES (Amateur Radio Emergency Service) oder RACES (Radio Amateur Civil Emergency Service) sind Organisationen, die im Notfall Kommunikationsunterstützung leisten.
+9000000027	Programme wie GNU Radio oder SDR# ermöglichen es Funkamateuren, ihre eigenen SDR-Anwendungen zu entwickeln.
+9000000028	Remote-Betrieb erlaubt es Funkamateuren, ihre Stationen aus der Ferne zu steuern.
+9000000029	IoT-Anwendungen (Internet of Things) eröffnen neue Möglichkeiten für den Amateurfunk.
+9000000030	Die Teilnahme an Contests wie dem CQ World Wide DX Contest oder dem ARRL International DX Contest ist bei Funkamateuren sehr beliebt.
+9000000031	Amateurfunkvereine wie der DARC (Deutscher Amateur-Radio-Club) oder die RSGB (Radio Society of Great Britain) bieten Unterstützung und Gemeinschaft für Funkamateure.
+9000000032	Die Nutzung von Echolink und D-STAR ermöglicht es Funkamateuren, weltweit über das Internet zu kommunizieren.
+9000000033	Antennenbau und -optimierung sind wichtige Aspekte des Amateurfunks.
+9000000034	Die Teilnahme an Field Days und anderen Veranstaltungen fördert die Gemeinschaft unter Funkamateuren.
+9000000035	Die Einhaltung von Funkregeln und -etikette ist entscheidend für einen respektvollen und erfolgreichen Funkbetrieb.
+9000000036	Wir danken Ihnen fürs Zuhören und wünschen Ihnen viel Erfolg bei Ihren Funkaktivitäten.
+9000000037	Das war der Württemberg-Rundspruch des Deutschen Amateur-Radio-Clubs, Distrikt Württemberg, für die 49. Kalenderwoche des Jahres 2024.
+9000000038	Auf Wiederhören und 73!
+9000000039	Euer Redaktionsteam des Württemberg-Rundspruchs.
+9000000040	Frank DL3MBG, Markus DL3KZA, Thomas DL3TH, und Ulrich DL3UAA.
+9000000041	EchoLink verbindet Funkgeräte weltweit über das Internet und schafft neue Kommunikationswege.
+9000000042	PacketRadio ist eine digitale Betriebsart, die Datenpakete über Funk überträgt.
+9000000043	SDR-Transceiver vereint Sender und Empfänger in einem kompakten Gerät und ist unverzichtbar.
+9000000044	Transceiver vereint Sender und Empfänger in einem kompakten Gerät und ist unverzichtbar.
+9000000045	Repeater sorgt dafür, dass Funksignale über große Entfernungen weitergeleitet werden.
+9000000046	Amateurfunk-Kolloquium ist ein Begriff aus der Welt des Amateurfunks, der Technik und Gemeinschaft verbindet.
+9000000047	Conteste ist ein spannender Wettbewerb, bei dem Funkamateure ihre Fähigkeiten unter Beweis stellen.
+9000000048	CW erinnert an die Kunst des Morsens, die Präzision und Ausdauer erfordert.
+9000000049	QRP bedeutet Funkbetrieb mit minimaler Leistung und maximaler Kreativität.
+9000000050	QSO ist das Herzstück des Amateurfunks – das Gespräch zwischen zwei Stationen.
+9000000051	Notfunkübung ist ein Begriff aus der Welt des Amateurfunks, der Technik und Gemeinschaft verbindet.
+9000000052	Fieldday ist ein Begriff aus der Welt des Amateurfunks, der Technik und Gemeinschaft verbindet.
+9000000053	HamNet steht für die weltweite Gemeinschaft leidenschaftlicher Funkamateure.
+9000000054	DXpedition bezeichnet Fernverbindungen, die Funkamateure rund um den Globus begeistern.
+9000000055	"IOTA bedeutet ""Islands on the Air"" und fördert Funkverbindungen zu Inselstationen weltweit."
+9000000056	FT8 ist eine digitale Betriebsart, die schnelle und effiziente Funkverbindungen ermöglicht.
+9000000057	DMR (Digital Mobile Radio) ist eine digitale Betriebsart, die klare Sprachkommunikation bietet.
+9000000058	APRS (Automatic Packet Reporting System) ermöglicht die Übertragung von Positionsdaten und Nachrichten über Funk.
+9000000059	Ein Reciver ist ein Gerät, das Funksignale empfängt und in hörbare Töne umwandelt.
+9000000060	Ein Transmitter ist ein Gerät, das Funksignale sendet und Informationen überträgt.
+9000000061	Beim Antennenbau ist die richtige Impedanzanpassung entscheidend für die optimale Leistung.
+9000000062	Auch das Stehwellenverhältnis (SWR) spielt eine wichtige Rolle bei der Effizienz von Antennen.
+9000000063	svxLink ist ein Tool, das die Verwaltung von Repeatern und Relaisstationen erleichtert.
+9000000064	Ein Relais-VErantwortlicher wird als SysOp bezeichnet und sorgt für den reibungslosen Betrieb.
+9000000065	Im UHF/VHF Betrieb ist darauf zu achten, dass die Frequenzen korrekt eingestellt sind.
+9000000066	MeshNet sind Netzwerke, die Funkamateuren ermöglichen, Daten über mehrere Knotenpunkte zu übertragen.
+9000000067	Ein CubeSat ist ein kleiner Satellit, der oft von Universitäten und Forschungseinrichtungen gebaut wird.
+9000000068	Ein OSCAR-Satellit (Orbiting Satellite Carrying Amateur Radio) ermöglicht Funkamateuren die Kommunikation über Satelliten.
+9000000069	ATV wurde durch digitale Betriebsarten wie D-ATV (Digital Amateur Television) ergänzt.
+9000000070	Ein Echolink-Hotspot verbindet Funkgeräte weltweit über das Internet und schafft neue Kommunikationswege.
+9000000071	Die Teilnahme an Contests wie dem CQ World Wide DX Contest ist bei Funkamateuren sehr beliebt.
+9000000072	"Die Abküürzung wie QSP steht für ""Ich werde Ihre Nachricht weiterleiten""."
+9000000073	"Die Abkürzung QSL steht für ""Bestätigung des Funkkontakts""."
+9000000074	"Die Abkürzung QTH steht für ""Standort"" im Amateurfunk."
+9000000075	"Die Abkürzung RST steht für ""Readability, Signal Strength, Tone"" und wird zur Bewertung von Funksignalen verwendet."
+9000000076	"Die Abkürzung DX steht für ""Distance"" und bezeichnet Fernverbindungen im Amateurfunk."
+9000000077	"Die Abkürzung POTA steht für ""Parks on the Air"" und fördert Funkverbindungen aus Nationalparks."
+9000000078	"Die Abkürzung SOTA steht für ""Summits on the Air"" und fördert Funkverbindungen von Berggipfeln."
+9000000079	"Die Abkürzung RTTY steht für ""Radio Teletype"" und ist eine digitale Betriebsart im Amateurfunk."
+9000000080	"Die Abkürzung PSK31 steht für ""Phase Shift Keying"" und ist eine digitale Betriebsart im Amateurfunk."
+9000000081	"Die Abkürzung SDR steht für ""Software Defined Radio"" und bezeichnet eine flexible Funktechnologie."
+9000000082	"Die Abkürzung ARES steht für ""Amateur Radio Emergency Service"" und bezeichnet Notfunkorganisationen."
+9000000083	"Die Abkürzung RACES steht für ""Radio Amateur Civil Emergency Service"" und bezeichnet Notfunkorganisationen."
+9000000084	"Die Abkürzung SWR steht für ""Standing Wave Ratio"" und beschreibt das Verhältnis von Vorwärts- zu Rückwärtswelle in einer Antenne."
+9000000085	"Die Abkürzung DMR steht für ""Digital Mobile Radio"" und ist eine digitale Betriebsart im Amateurfunk."
+9000000086	Die Abkürzung FT8 steht für eine digitale Betriebsart, die schnelle und effiziente Funkverbindungen ermöglicht.
+9000000087	"Die Abkürzung QRP steht für ""Low Power"" und bezeichnet den Betrieb mit minimaler Leistung."
+9000000088	"Die Abkürzung QTH steht für ""Location"" und bezeichnet den Standort im Amateurfunk."
+9000000089	Mit der mobilen Station können Funkamateure von unterwegs aus kommunizieren.
+9000000090	Im Auto ist der OM mit seiner mobilen Station oft auf Kurzwellenbändern aktiv.
+9000000091	Yagi-Uda-Antenne ist eine Richtantenne, die für ihre hohe Gewinnleistung bekannt ist.
+9000000092	Eine Doppel-Quad-Antenne wird oft für den 2-Meter-Bandbetrieb verwendet.
+9000000093	Jeder Amatuerfunker besitzt ein persönliches Rufzeichen, das weltweit einzigartig ist, wie z.B. DL3MBG oder K1ABC.
+9000000094	Das Funkeralphabet wird verwendet, um Buchstaben klar und deutlich über Funk zu übermitteln, z.B. Alpha für A, Bravo für B, Charlie für C.
+9000000095	Ein Dipol ist eine der einfachsten und am häufigsten verwendeten Antennen im Amateurfunk.
+9000000096	Ein Groundplane ist eine Antenne, die aus einem vertikalen Strahler und mehreren horizontalen Radialen besteht.
+9000000097	Ein Vertikalstrahler ist eine Antenne, die vertikal ausgerichtet ist und oft für den Kurzwellenbetrieb verwendet wird.
+9000000098	Ein Beam-Antenne ist eine Richtantenne, die für ihre hohe Gewinnleistung bekannt ist.
+9000000099	Ein Balun (Balanced to Unbalanced) ist ein Gerät, das die Impedanz zwischen einer symmetrischen Antenne und einem unsymmetrischen Koaxialkabel anpasst.
+9000000100	Ein Antennentuner hilft dabei, die Antenne optimal an das Funkgerät anzupassen und das Stehwellenverhältnis zu minimieren.
+9000000101	Für den OSCAR-Betrieb sind zirkular polarisierte Antennen oft von Vorteil.
+9000000102	Ein Gateway wird genutzt, um Funkgeräte weltweit über das Internet zu verbinden.
+9000000103	Ein Hotspot ermöglicht es Funkamateuren, über das Internet auf Echolink und D-STAR zuzugreifen.
+9000000104	Auf der HamRadio in Friedrichshafen treffen sich jährlich tausende Funkamateure aus aller Welt.
+9000000105	Die HamRadio ist eine der größten Messen für Amateurfunk und bietet eine Vielzahl von Ausstellern und Vorträgen.
+9000000106	Der DARC bietet zahlreiche Ressourcen und Unterstützung für Funkamateure in Deutschland.
+9000000107	Mit der Einführung von AMSAT-DL wurde die Satellitenkommunikation für Funkamateure weiter verbessert.
+9000000108	Die IARU (International Amateur Radio Union) setzt sich weltweit für die Interessen der Funkamateure ein.
+9000000109	Die RSGB (Radio Society of Great Britain) ist die nationale Vereinigung der Funkamateure im Vereinigten Königreich.
+9000000110	Die ARRL (American Radio Relay League) ist die nationale Vereinigung der Funkamateure in den USA.
+9000000111	Die CQ Magazine ist eine der bekanntesten Publikationen im Amateurfunk und bietet Berichte, Anleitungen und Contest-Informationen.
+9000000112	Die QST Magazine ist eine weitere wichtige Publikation im Amateurfunk, die von der ARRL herausgegeben wird.
+9000000113	Die DX Magazine konzentriert sich auf Fernverbindungen und DXpeditionen im Amateurfunk.
+9000000114	Die CQDL ist eine deutsche Publikation, die sich mit verschiedenen Aspekten des Amateurfunks beschäftigt.
+9000000115	Die Funktechnik umfasst eine Vielzahl von Themen, darunter Antennenbau, Betriebsarten und Funkgeräte.
+9000000116	Auch für junge Menschen bietet der Amateurfunk spannende Möglichkeiten, Technik zu erleben und Gemeinschaft zu finden.
+9000000117	Foxoring ist eine spannende Aktivität, bei der Funkamateure versteckte Sender suchen und orten.
+9000000118	Das HamCamp ist eine Veranstaltung, bei der Funkamateure zusammenkommen, um Wissen auszutauschen und gemeinsam zu funken.
+9000000119	Ein Fieldday ist eine Gelegenheit für Funkamateure, im Freien zu operieren und ihre Fähigkeiten zu testen.
+9000000120	Marconi war ein Pionier der Funktechnik und legte den Grundstein für den modernen Funkbetrieb.
+9000000121	Bei seinem Tod im Jahr 1937 hinterließ Marconi ein beeindruckendes Erbe im Bereich der drahtlosen Kommunikation.
+9000000122	Die Entwicklung des Amateurfunks hat sich seit den Anfängen von Marconi erheblich weiterentwickelt.
+9000000123	Heute nutzen Funkamateure eine Vielzahl von Technologien, um weltweit zu kommunizieren.
+9000000124	Die Bedeutung des Amateurfunks in Notfällen wurde in den letzten Jahrzehnten immer wieder unter Beweis gestellt.
+9000000125	Zum Loggen von QSOs verwenden viele Funkamateure spezialisierte Software wie Waver oder Ham Radio Deluxe.
+9000000126	Diese Tools erleichtern die Verwaltung von Kontakten und die Teilnahme an Contests.
+9000000127	Auch können QSL-Karten digital über Dienste wie eQSL oder LoTW bestätigt werden.
+9000000128	Diese digitalen Dienste bieten eine schnelle und effiziente Möglichkeit, QSL-Karten auszutauschen.
+9000000129	Viele Amatuerfunker sammeln QSL-Karten als Erinnerung an ihre Funkkontakte weltweit.
+9000000130	Ein Amatuerfunker ist jemand, der die Lizenz zum Betrieb von Amateurfunkgeräten besitzt.
+9000000131	Der Amateurfunk verfolgt das Ziel, die technische Entwicklung und den internationalen Austausch zu fördern.
+9000000132	Die Atmosphäre spielt eine wichtige Rolle bei der Ausbreitung von Funksignalen.
+9000000133	Die Ionosphäre reflektiert Kurzwellen-Signale und ermöglicht so weltweite Verbindungen.
+9000000134	Solaraktivität beeinflusst die Ausbreitungsbedingungen im Amateurfunk erheblich.
+9000000135	Die Sonnenfleckenzyklen haben einen direkten Einfluss auf die Funkbedingungen.
+9000000136	Somit spielt das Weltraumwetter eine entscheidende Rolle für den Erfolg von Funkverbindungen.
+9000000137	Das Weltraumwetter kann über Webseiten wie Space Weather Live oder NOAA Space Weather Prediction Center verfolgt werden.
+9000000138	Diese Seiten bieten aktuelle Informationen über Sonnenaktivität und deren Auswirkungen auf den Funkbetrieb.
+9000000139	Eine Isotron-Antenne ist eine kompakte Antenne, die für den Kurzwellenbetrieb verwendet wird.
+9000000140	Eine Loop-Antenne ist eine geschlossene Antennenschleife, die für verschiedene Frequenzbereiche ausgelegt werden kann.
+9000000141	Eine Magnetic-Loop-Antenne ist eine spezielle Form der Loop-Antenne, die für den Empfang und Sendung auf Kurzwellen optimiert ist.
+9000000142	Eine Yagi-Antenne ist eine Richtantenne, die für ihre hohe Gewinnleistung bekannt ist.
+9000000143	Die Stratossphäre ist eine Schicht der Erdatmosphäre, die für die Ausbreitung von Funksignalen von Bedeutung ist.
+9000000144	Die Troposphäre ist die unterste Schicht der Erdatmosphäre und beeinflusst die Ausbreitung von VHF- und UHF-Signalen.
+9000000145	Die Mesosphäre ist eine Schicht der Erdatmosphäre, die für die Ausbreitung von Funksignalen von Bedeutung ist.
+9000000146	Die Thermosphäre ist eine Schicht der Erdatmosphäre, die für die Ausbreitung von Funksignalen von Bedeutung ist.
+9000000147	EME-VErbindungen (Earth-Moon-Earth) ermöglichen Funkamateuren die Kommunikation über die Reflexion von Signalen an der Mondoberfläche.
+9000000148	Auch eine Verbindungs über die Venus (Venus-Earth-Venus) ist theoretisch möglich, wird aber selten genutzt.
+9000000149	Der Solare Flux Index (SFI) ist ein wichtiger Indikator für die Sonnenaktivität und beeinflusst die Funkbedingungen.
+9000000150	Der A-Index ist ein Maß für geomagnetische Störungen und hat Auswirkungen auf die Ausbreitungsbedingungen im Amateurfunk.
+9000000151	Der K-Index ist ein weiterer Indikator für geomagnetische Aktivität und beeinflusst die Funkbedingungen.
+9000000152	Die MUF (Maximum Usable Frequency) gibt die höchste Frequenz an, die für eine Funkverbindung genutzt werden kann.
+9000000153	Die LUF (Lowest Usable Frequency) gibt die niedrigste Frequenz an, die für eine Funkverbindung genutzt werden kann.
+9000000154	Die F2-Schicht der Ionosphäre ist entscheidend für die Ausbreitung von Kurzwellen-Signalen.
+9000000155	Die D-Schicht der Ionosphäre beeinflusst die Ausbreitung von Kurzwellen-Signalen, insbesondere bei Tag.
+9000000156	Die E-Schicht der Ionosphäre spielt eine wichtige Rolle bei der Reflexion von Funksignalen.
+9000000157	Die Sporadic-E-Schicht der Ionosphäre kann unerwartete Funkverbindungen über große Entfernungen ermöglichen.
+9000000158	Die Polarlicht-Aktivität kann die Ausbreitungsbedingungen im Amateurfunk erheblich beeinflussen.
+9000000159	Die Aurora Borealis (Nordlicht) und Aurora Australis (Südlicht) sind sichtbare Erscheinungen, die mit geomagnetischer Aktivität verbunden sind.
+9000000160	Besondere QSOs sind Verbindungen zu, z.B. der Neumeyer-Station in der Antarktis oder zu Expeditionsstationen auf entlegenen Inseln.
+9000000161	Es ist wichtig Begriffe wie Ferritabsorber, SWR-Meter, Dummy-Load, Preamplifier, Attenuator, Transverter, Linearverstärker, und Vorverstärker zu kennen.
+9000000162	Die Bundesnetzagentur (BNetzA) ist die deutsche Regulierungsbehörde für Telekommunikation und Post.
+9000000163	Sie ist verantwortlich für die Vergabe von Amateurfunklizenzen in Deutschland.
+9000000164	Die BNetzA überwacht auch die Einhaltung der Funkvorschriften und -standards.
+9000000165	"Der Abkürzung AFU steht für ""Amateurfunkdienst"" und bezeichnet den Bereich des Funkverkehrs, der von lizenzierten Funkamateuren genutzt wird."
+9000000166	Die ZWischenfrequenz (ZF) ist eine wichtige Komponente in Funkempfängern und -sendern.
+9000000167	Die Modulation ist der Prozess, bei dem Informationen auf ein Trägersignal aufgebracht werden.
+9000000168	Die Demodulation ist der Prozess, bei dem Informationen aus einem modulierten Trägersignal extrahiert werden.
+9000000169	Die Bandbreite eines Funksignals bestimmt, wie viel Frequenzspektrum es benötigt.
+9000000170	Die Frequenzstabilität ist entscheidend für die Qualität und Zuverlässigkeit von Funkverbindungen.
+9000000171	Die Empfindlichkeit eines Empfängers bestimmt, wie gut er schwache Signale empfangen kann.
+9000000172	Das Rauschen in einem Funksystem kann die Qualität der empfangenen Signale beeinträchtigen.
+9000000173	Die Verstärkung eines Verstärkers bestimmt, wie stark ein Signal verstärkt wird.
+9000000174	Die Linearität eines Verstärkers ist wichtig, um Verzerrungen im Signal zu minimieren.
+9000000175	Die Intermodulation kann unerwünschte Signale erzeugen und die Qualität der Funkverbindung beeinträchtigen.
+9000000176	Die Harmonischen sind unerwünschte Frequenzen, die bei der Signalübertragung entstehen können.
+9000000177	Die Oberwellen sind höhere Frequenzen, die bei der Signalübertragung entstehen können.
+9000000178	Die Filterung ist ein wichtiger Prozess, um unerwünschte Signale zu entfernen und die Qualität der Funkverbindung zu verbessern.
+9000000179	Filtertypen wie Tiefpass-, Hochpass-, Bandpass- und Bandsperrfilter werden im Amateurfunk eingesetzt.
+9000000180	Ein Spektrumanalysator ist ein Gerät, das die Frequenzkomponenten eines Signals darstellt.
+9000000181	Zur Messung von Stehwellenverhältnis (SWR) und Leistung werden spezielle Messgeräte verwendet.
+9000000182	Die Kalibrierung von Messgeräten ist entscheidend für genaue Messungen im Amateurfunk.
+9000000183	Passive Reflektoren werden verwendet, um die Leistung von Antennen zu verbessern.
+9000000184	Die Funktionsweise einer Yagi-Uda-Antenne basiert auf der Anordnung mehrerer Elemente zur Richtwirkung.
+9000000185	Die Polarisation von Antennen kann horizontal, vertikal oder zirkular sein.
+9000000186	Die Gewinnleistung einer Antenne bestimmt, wie effektiv sie Signale sendet und empfängt.
+9000000187	Die Richtwirkung einer Antenne beeinflusst, in welche Richtung Signale gesendet und empfangen werden.
+9000000188	Die Bandbreite einer Antenne bestimmt, über welchen Frequenzbereich sie effektiv arbeitet.
+9000000189	Die Impedanzanpassung ist entscheidend für die optimale Leistung von Antennen und Funkgeräten.
+9000000190	Die Resonanzfrequenz einer Antenne ist die Frequenz, bei der sie am effizientesten arbeitet.
+9000000191	Die Ausbreitungsbedingungen im Amateurfunk werden von verschiedenen Faktoren beeinflusst.
+9000000192	Dazu gehören Sonnenaktivität, Ionosphärenzustand und geomagnetische Störungen.
+9000000193	Die Ausbreitung von Funksignalen kann durch atmosphärische Bedingungen wie Troposcatter und Fading beeinflusst werden.
+9000000194	Die Nutzung von Satelliten im Amateurfunk ermöglicht weltweite Verbindungen.
+9000000195	Auf einer QSL-Karte werden häufig folgende Informationen vermerkt: Rufzeichen, Datum, Uhrzeit, Frequenz, Betriebsart und Signalbericht.
+9000000196	Dabei wird auf die korerkte Dokumentation der Funkverbindung geachtet.
+9000000197	Interferenzen können die Qualität von Funkverbindungen beeinträchtigen.
+9000000198	Störquellen wie elektrische Geräte, industrielle Anlagen und andere Funkdienste sollten vermieden werden.
+9000000199	Die Einhaltung von Funkregeln und -etikette ist entscheidend für einen respektvollen und erfolgreichen Funkbetrieb.
+9000000200	Dazu gehört das Vermeiden von Störungen, das Respektieren von Frequenzzuweisungen und das Einhalten von Sendezeiten.
+9000000201	Wir widmen uns nun der HF-Technik des Rundspruchs.
+9000000202	Die Wahl der Frequenz 3650 kHz in LSB optimiert die Reichweite.
+9000000203	Die genaue Frequenz ist für eine saubere Demodulation essenziell.
+9000000204	Jeder Oszillator in Ihrem Transceiver muss stabil sein.
+9000000205	Die PLL sorgt für die notwendige Synchronisation der Trägerfrequenz.
+9000000206	Ohne präzise Synchronisation kommt es zu Verzerrung.
+9000000207	Ein gutes Signal-Rausch-Verhältnis ist auf Kurzwelle Gold wert.
+9000000208	Das Rauschen im NF-Technik Teil muss minimiert werden.
+9000000209	Dazu verwenden wir effektive Filter im Spektrum der Bandbreite.
+9000000210	Die Impulsantwort des Kanals verändert sich ständig.
+9000000211	Unsere Dipolantenne muss für die Leistung ausgelegt sein.
+9000000212	Wir achten auf den richtigen Wellenwiderstand der Leitung.
+9000000213	Zu viel Reflexion führt zu einer hohen Stehwelle.
+9000000214	Die Leistungsanpassung ist somit von höchster Priorität.
+9000000215	DL4SBK hat diesen Aspekt für den Flohmarkt hervorgehoben.
+9000000216	Die Dämpfung im Koaxialkabel sollte gering sein.
+9000000217	Die Induktivität und Kapazität des Kabels bestimmen die Eigenschaften.
+9000000218	Die Impedanz muss zur Admittanz passen.
+9000000219	Der Widerstand in allen Komponenten ist kritisch.
+9000000220	Im Falle des LoRa-Protokolls sprechen wir von FSK.
+9000000221	QAM und PSK sind weitere digitale Modulationsarten.
+9000000222	Die Datenrate ist direkt von der Kanalkodierung abhängig.
+9000000223	Fehlerkorrektur durch LDPC oder Turbo-Codes erhöht die Zuverlässigkeit.
+9000000224	Dies reduziert die notwendige Redundanz im Signal.
+9000000225	Die Shannon-Grenze gibt das theoretische Maximum an Informationsgehalt an.
+9000000226	Die Entropie der Quelle ist ein wichtiger Parameter.
+9000000227	Huffman-Code wird zur Quellencodierung verwendet.
+9000000228	Lempel-Ziv dient zur Kompression der Daten.
+9000000229	Wir nutzen die Fourier-Transformation zur Analyse des Spektrums.
+9000000230	Die Übertragungsfunktion des Funkkanals ist komplex.
+9000000231	Satelliten wie AO-73 nutzen UHF-/VHF-Lineartransponder.
+9000000232	Hierbei ist das Multiplexing von Nutzern möglich.
+9000000233	Wir sprechen von Frequenzmultiplex im Weltraum.
+9000000234	Die Polarisation der Antennen ist für Sat-Empfang kritisch.
+9000000235	Die Parabolantenne von V51WH in Namibia ist optimal.
+9000000236	Das Richtdiagramm dieser Antennen ist sehr scharf.
+9000000237	Die Blindleistung im Speisepunkt sollte minimiert werden.
+9000000238	Nur die Wirklast soll aktiv sein.
+9000000239	Die Scheinleistung enthält beide Komponenten.
+9000000240	Die Mikrowelle-Technik für QO-100 ist anspruchsvoll.
+9000000241	Hier sind Verstärker der Klasse A oder Klasse AB gefragt.
+9000000242	Ein MOSFET oder BJT ist der Kern des Transistor-Verstärkers.
+9000000243	Moderne Schaltnetzteile arbeiten mit Klasse D.
+9000000244	Die NF-Verstärker sorgen für eine klare Aussendung.
+9000000245	Matthias Maurer, KI5KFH, wird vielleicht auf Artemis 4 fliegen.
+9000000246	Die Satellitenkommunikation zum Mond wird neue Herausforderungen stellen.
+9000000247	Die lange Laufzeit erfordert exakte Synchronisation des Taktegebers.
+9000000248	Die Phasenlage der Signale muss korrigiert werden.
+9000000249	Wir müssen das Fading durch Mehrwegeausbreitung auf der Erde in Kauf nehmen.
+9000000250	Die Interferenz der Funkwelle kann das Signal schwächen.
+9000000251	Beugung und Brechung beeinflussen die Ausbreitung.
+9000000252	Die Absorption in der Ionosphäre ist ein tägliches Thema.
+9000000253	Uwe, DL7GAO, sucht Peilungen gegen den unbekannten Sender.
+9000000254	Seine Anfrage ist ein Beispiel für Radar-ähnliche Erfassung.
+9000000255	Die kurzen Impulse erschweren die Peilung.
+9000000256	Die Datenrate des unbekannten Senders ist sehr hoch.
+9000000257	Wir müssen die Quantisierung des Empfangssignals verbessern.
+9000000258	Das Nyquist-Theorem ist beim digitalen Abtastung entscheidend.
+9000000259	Ohne Beachtung droht Aliasing.
+9000000260	Ronny Jerke, DG2RON, dankt den Nutzern des Wavelog@DARC.
+9000000261	Das Logbuch ist ein wichtiges Netzwerk-Tool.
+9000000262	Das Protokoll des Logbuchs ist webbasiert.
+9000000263	Die Datenübertragung erfolgt über TCP/IP.
+9000000264	Das OSI-Modell beschreibt die Architektur.
+9000000265	WLAN und Ethernet sind die üblichen Zugänge.
+9000000266	Manche OV-Treffen nutzen WLAN für Präsentationen.
+9000000267	Der OV Balingen P30 feierte groß.
+9000000268	Die OV-Frequenz 145.275 MHz wurde genutzt.
+9000000269	Die FM Modulation ist auf diesem Band Standard.
+9000000270	Die Kraichgau FM-Session nutzt ebenfalls FM.
+9000000271	Wir sind in der Hochphase des Sonnenzyklus.
+9000000272	Die geomagnetische Aktivität beeinflusst die Ausbreitung.
+9000000273	Besonders die Dämpfungsfaktor der Funkwelle steigt.
+9000000274	Die Reflexion an der Ionosphäre ist instabil.
+9000000275	Der Dämpfungsglied im Antennen-Zweig ist wichtig.
+9000000276	Ein Verstärker kann die Rauschzahl verschlechtern.
+9000000277	Das Spektrum der AM Modulation ist breit.
+9000000278	PM wird für spezielle Anwendungen genutzt.
+9000000279	Wir hoffen, dass keine weiteren Magnetstürme auftreten.
+9000000280	Die Forschung zur Stabilität der Sonnenflecken ist bahnbrechend.
+9000000281	Die Kompensation der magnetischen Kräfte ist ein wichtiges Ergebnis.
+9000000282	Die genaue Phase dieses Ausgleichs wird untersucht.
+9000000283	Für V51WH ist die Ausbreitung entscheidend.
+9000000284	Er nutzt die Yagi-Antenne für Richtdiagramm -Wirkung.
+9000000285	Das Richtdiagramm maximiert das Signal.
+9000000286	TY0RU nutzt Satellitenkommunikation über QO-100.
+9000000287	Dieses Netzwerk im geostationären Orbit ist sehr stabil.
+9000000288	futureGEO plant eine Weiterentwicklung.
+9000000289	Hier wird über regenerative Systeme anstelle von Bent-Pipe diskutiert.
+9000000290	Das Uplink ist auf 2,4-GHz und Downlink auf 10 GHz.
+9000000291	Dies sind Mikrowelle-Frequenzen.
+9000000292	Ein Mischer im Transponder erzeugt die neue Trägerfrequenz.
+9000000293	Der Schwingkreis des Oszillators muss präzise sein.
+9000000294	Alexander Gerst, KF5ONO, hat Erfahrung mit der ISS-Kommunikation.
+9000000295	Seine Datenrate war auf der ISS sehr hoch.
+9000000296	Die PCM und Delta-Modulation sind Grundlagen der digitalen Sprache.
+9000000297	Die Codierung der Telemetriedaten ist entscheidend.
+9000000298	Hamming-Code wird oft zur Fehlerkorrektur verwendet.
+9000000299	Dies erhöht die Redundanz des Signals.
+9000000300	Wir brauchen einen starken Gleichrichter für die Stromversorgung.
+9000000301	Die Zenerdiode schützt vor Überspannung.
+9000000302	Ein Varaktor dient zur Frequenzabstimmung.
+9000000303	Wir sprechen hier von feinster NF-Technik und HF-Technik.
+9000000304	Der Richtkoppler misst die Vor- und Rücklaufleistung.
+9000000305	Ein Splitter teilt das Signal auf mehrere Antennen.
+9000000306	Ein Combiner führt sie wieder zusammen.
+9000000307	Der Isolator verhindert die Reflexion in die Quelle.
+9000000308	Der Zirkulator trennt Sende- und Empfangsweg.
+9000000309	Die Ausbreitung der Funkwelle unterliegt der Dispersion.
+9000000310	Dies ist besonders bei Glasfaser oder Lichtwellenleiter wichtig.
+9000000311	Wir nutzen keine Optische Kommunikation, aber das Prinzip ist ähnlich.
+9000000312	Die jungen YOTA Operator nutzen verschiedene Modulationsarten.
+9000000313	QPSK ist eine Unterart von PSK.
+9000000314	QAM maximiert die Bitrate pro Bandbreite.
+9000000315	Moderne Mobilfunkzelle-Basisstation nutzen 5G und LTE.
+9000000316	Dort kommen OFDM und MIMO zum Einsatz.
+9000000317	Beamforming richtet die Energie gezielt aus.
+9000000318	Diversity bekämpft das Fading.
+9000000319	Die SDMA Methode teilt den Raum auf.
+9000000320	TDMA , CDMA und FDMA sind Multiplexing Verfahren.
+9000000321	Unser Rundspruch nutzt Zeitmultiplex in den Relaiszeiten.
+9000000322	DL50DRI ist ein schönes Sonderrufzeichen.
+9000000323	Alle Ortsverbände leisten hervorragende Arbeit.
+9000000324	Die Asynchron Übertragung ist einfacher als Synchron.
+9000000325	Die Abtastung des Digitalsignals muss präzise sein.
+9000000326	Die Quantisierung definiert die Auflösung.
+9000000327	Ein guter AD-Wandler macht den Unterschied.
+9000000328	Der DA-Wandler muss die Sprache klar ausgeben.
+9000000329	PCM ist der Standard.
+9000000330	Die Impedanz des Lautsprechers ist wichtig.
+9000000331	Das Widerstand-Matching am Verstärker ist entscheidend.
+9000000332	Der Bussen DB0RZ deckt ein großes Gebiet ab.
+9000000333	Die Parabolantenne für Satelliten hat ein enges Richtdiagramm.
+9000000334	Wir hoffen auf störungsfreien Empfang für alle.
+9000000335	73 de das Redaktionsteam.
+9000000336	Der Deutschland-Rundspruch war wieder reich an Neuigkeiten.
+9000000337	Das Lichtsegel-Experiment ist von großer Bedeutung.
+9000000338	Die ChipSats sind extrem kleine Sender.
+9000000339	Sie nutzen das LoRa-Protokoll zur Datenübertragung.
+9000000340	Die gewählte Frequenz 437,400 MHz ist ein UHF-Band.
+9000000341	Die Antennen müssen sehr effizient sein.
+9000000342	Jede Amplitude der Funkwelle wird registriert.
+9000000343	Die Phase des empfangenen Signals ist messbar.
+9000000344	Die Demodulation der FSK erfolgt digital.
+9000000345	Fehlerkorrektur ist bei der Bitrate essenziell.
+9000000346	Ohne Codierung und Dekodierung wären die Daten verloren.
+9000000347	Wir danken den Empfängern für die Berichte.
+9000000348	Alexander Gerst könnte der erste Europäer auf dem Weg zum Mond sein.
+9000000349	Die Artemis-Mission nutzt fortschrittliche Satellitenkommunikation.
+9000000350	Die Trägerfrequenz wird im Mikrowelle-Bereich liegen.
+9000000351	Matthias Maurer ist ein weiterer Hoffnungsträger.
+9000000352	Das Weltraumwetter muss für den Start optimal sein.
+9000000353	Eine Sonneneruption könnte die Telemetrie stören.
+9000000354	Die geomagnetische Aktivität muss niedrig sein.
+9000000355	Sonnenwindgeschwindigkeiten über 750 km/s sind zu vermeiden.
+9000000356	Dies würde zu starker Dämpfung führen.
+9000000357	Die Ausbreitung der Funkwelle wird durch das Plasma beeinflusst.
+9000000358	JS8 auf 80 m ist ein gutes Beispiel für QPSK.
+9000000359	Es ist eine PSK Modulationsart.
+9000000360	Die Bandbreite ist sehr schmal.
+9000000361	Das Signal-Rausch-Verhältnis wird durch digitale Filter verbessert.
+9000000362	Der OV Laupheim (P49) zeigt vorbildliches Engagement im Notfunk.
+9000000363	Frank Riedel, DJ3FR, katalogisiert die Geräte im Archiv.
+9000000364	Er wird sich der Dokumentensichtung widmen.
+9000000365	Dort lagern Schriften zur Funktechnik allgemein.
+9000000366	Das Ergebnis des UKW-Contestpokals ist nun offiziell.
+9000000367	Die VHF-Conteste waren sehr spannend.
+9000000368	DL5SFC organisierte das OV-P-Treff erfolgreich.
+9000000369	Wir kommen zu einer kurzen Wiederholung der technischen Begriffe.
+9000000370	Die Amplitude beschreibt die Höhe des Signals.
+9000000371	Die Frequenz die Schwingungszahl pro Sekunde.
+9000000372	Die Phase die zeitliche Verschiebung.
+9000000373	Das Signal ist die zu übertragende Information.
+9000000374	Die Modulation das Aufprägen der Information auf den Träger.
+9000000375	Die Demodulation die Rückgewinnung.
+9000000376	Die Trägerfrequenz ist der Sendekanal.
+9000000377	Die Bandbreite der belegte Frequenzbereich.
+9000000378	Ein Filter unterdrückt Unerwünschtes.
+9000000379	Rauschen ist die Störkomponente.
+9000000380	Das Signal-Rausch-Verhältnis ist das Gütemaß.
+9000000381	Das Spektrum die Frequenzdarstellung.
+9000000382	Die Fourier-Transformation wandelt zwischen Zeit- und Frequenzbereich.
+9000000383	Die Impulsantwort charakterisiert ein System.
+9000000384	Die Übertragungsfunktion beschreibt das Verhalten.
+9000000385	Eine Leitung transportiert die Energie.
+9000000386	Ein Koaxialkabel ist eine spezielle Leitung.
+9000000387	Der Wellenwiderstand ist konstant.
+9000000388	Reflexion entsteht bei Fehlanpassung.
+9000000389	Eine Stehwelle ist die Folge von Reflexion.
+9000000390	Dämpfung ist der Energieverlust.
+9000000391	Verzerrung ist die Signalveränderung.
+9000000392	Multiplexing ist die Mehrfachnutzung eines Kanals.
+9000000393	Zeitmultiplex und Frequenzmultiplex sind die Arten.
+9000000394	Codierung und Dekodierung sind Prozesse.
+9000000395	Fehlerkorrektur schützt die Datenrate.
+9000000396	Redundanz ist der Schutzmechanismus.
+9000000397	Die Bitrate und Datenrate sind eng verwandt.
+9000000398	Abtastung wandelt analog in digital.
+9000000399	Quantisierung ordnet Werte zu.
+9000000400	PCM ist die Pulscodemodulation.
+9000000401	Delta-Modulation ist eine Variante.
+9000000402	AD-Wandler und DA-Wandler sind die Bausteine.
+9000000403	Das Nyquist-Theorem ist zu beachten.
+9000000404	Aliasing ist ein unerwünschter Effekt.
+9000000405	Synchronisation sorgt für Gleichlauf.
+9000000406	Asynchron ist ohne expliziten Taktgeber.
+9000000407	Synchron ist mit Taktgeber.
+9000000408	Die PLL ist die Phasenregelschleife.
+9000000409	Ein Schwingkreis erzeugt eine Resonanz.
+9000000410	Induktivität , Kapazität und Widerstand sind die Elemente.
+9000000411	Die Impedanz ist der Wechselstromwiderstand.
+9000000412	Die Admittanz ist der Kehrwert.
+9000000413	Leistung ist die Energie pro Zeit.
+9000000414	Blindleistung wird hin und her geschoben.
+9000000415	Wirklast wird umgesetzt.
+9000000416	Scheinleistung ist die geometrische Summe.
+9000000417	Die Leistungsanpassung ist für maximale Energieübertragung wichtig.
+9000000418	HF-Technik und NF-Technik sind die Bereiche.
+9000000419	Mikrowelle sind die höchsten Frequenzen.
+9000000420	Antennen strahlen die Funkwelle ab.
+9000000421	Die Dipolantenne ist die einfachste Form.
+9000000422	Die Yagi-Antenne hat Gewinn.
+9000000423	Die Parabolantenne für Satelliten hat hohen Gewinn.
+9000000424	Das Richtdiagramm zeigt die Abstrahlcharakteristik.
+9000000425	Die Polarisation ist die Schwingungsrichtung.
+9000000426	Die Funkwelle breitet sich aus.
+9000000427	Die Ausbreitung ist wetterabhängig.
+9000000428	Der Dämpfungsfaktor beschreibt den Verlust.
+9000000429	Fading ist die Schwankung der Feldstärke.
+9000000430	Mehrwegeausbreitung verursacht Fading.
+9000000431	Interferenz ist die Überlagerung.
+9000000432	Beugung und Brechung sind physikalische Effekte.
+9000000433	Reflexion und Absorption sind Energieverluste.
+9000000434	Die Modulationsarten sind vielfältig.
+9000000435	Die Modulationsverfahren AM , FM , PM sind analog.
+9000000436	Die Modulationsverfahren QAM , PSK , FSK , ASK sind digital.
+9000000437	OFDM nutzt viele Unterträger.
+9000000438	MIMO nutzt mehrere Antennen.
+9000000439	Beamforming richtet die Energie gezielt aus.
+9000000440	Diversity verbessert die Empfangsqualität.
+9000000441	Kanalkodierung fügt Redundanz hinzu.
+9000000442	Blockcode und Faltungscode sind die Arten.
+9000000443	Turbo-Code und LDPC sind modern.
+9000000444	CRC und Hamming-Code sind zur Fehlerkorrektur.
+9000000445	Die Shannon-Grenze ist das Limit.
+9000000446	Der Informationsgehalt und die Entropie sind Maße.
+9000000447	Quellencodierung reduziert die Redundanz.
+9000000448	Huffman-Code und Lempel-Ziv sind Algorithmen.
+9000000449	Kompression macht Datenübertragung effizienter.
+9000000450	Das Netzwerk folgt einem Protokoll.
+9000000451	Das OSI-Modell beschreibt die Schichten.
+9000000452	TCP/IP ist der Standard.
+9000000453	Ethernet und WLAN sind Zugänge.
+9000000454	Bluetooth und ZigBee sind Nahbereichsfunk.
+9000000455	LTE und 5G sind Mobilfunkstandards.
+9000000456	GSM und UMTS sind ältere.
+9000000457	CDMA , TDMA und FDMA sind Zugriffsverfahren.
+9000000458	SDMA nutzt Beamforming.
+9000000459	Die Basisstation bildet die Mobilfunkzelle.
+9000000460	Satellitenkommunikation ist global.
+9000000461	Radar und Sonar nutzen Reflexion.
+9000000462	Optische Kommunikation nutzt Lichtwellenleiter.
+9000000463	Die Glasfaser hat geringe Dämpfung.
+9000000464	Dispersion ist ein Problem in der Glasfaser.
+9000000465	Ein Dämpfungsglied regelt die Leistung.
+9000000466	Ein Verstärker erhöht die Amplitude.
+9000000467	Der Richtkoppler misst die Leistung.
+9000000468	Ein Splitter verteilt das Signal.
+9000000469	Der Combiner fasst Signale zusammen.
+9000000470	Der Isolator schützt den Oszillator.
+9000000471	Der Zirkulator trennt Simplex-Betrieb.
+9000000472	Ein Mischer erzeugt neue Frequenzen.
+9000000473	Der Oszillator ist der Taktgeber.
+9000000474	Die Verstärkerklasse bestimmt den Wirkungsgrad.
+9000000475	Klasse A hat den geringsten Wirkungsgrad.
+9000000476	Klasse B und Klasse AB sind Kompromisse.
+9000000477	Klasse C ist für FM geeignet.
+9000000478	Klasse D , Klasse E , Klasse F sind Schaltverstärker.
+9000000479	Der Transistor ist das Bauelement.
+9000000480	MOSFET , BJT , JFET sind die Typen.
+9000000481	Dioden werden als Gleichrichter verwendet.
+9000000482	Die Zenerdiode stabilisiert die Spannung.
+9000000483	Der Varaktor ist eine variable Kapazität.
+9000000484	Ein Schaltnetzteil ist effizient.
+9000000485	Der HF-Verstärker arbeitet mit hohen Frequenzen.
+9000000486	Der NF-Verstärker mit niedrigen Frequenzen.
+9000000487	Die Rauschzahl ist das Maß für das Eigenrauschen.
+9000000488	Wir wiederholen die wichtigsten Calls der Woche.
+9000000489	DL5SFC war aktiv.
+9000000490	DL4SBK ist der Ansprechpartner.
+9000000491	DJ3FR arbeitet im DARC-Archiv.
+9000000492	DQ0YOTA sucht Operator.
+9000000493	TY0RU sendet von TY.
+9000000494	V51WH von V5.
+9000000495	KF5ONO und KI5KFH sind im Gespräch.
+9000000496	DL7GAO bittet um Hilfe.
+9000000497	DB0RIG ist unser Göppinger Relais.
+9000000498	DB0ROB ist das Rossberg-Relais.
+9000000499	DB0HN ist in Heilbronn aktiv.
+9000000500	DB0LD in Künzelsau ist wichtig.
+9000000501	DB0RZ auf dem Bussen hat gute Reichweite.
+9000000502	DB0BIB in Biberach sendet digital.
+9000000503	DB0SKF in Schöllkopf ist unsere letzte Relaisstelle.
+9000000504	DH8IQ sendet im Raum Mühlacker.
+9000000505	Alle diese Relais nutzen FM Modulation.
+9000000506	Die Frequenzstabilität wird durch PLL gewährleistet.
+9000000507	Die Phasenlage ist konstant.
+9000000508	Die Ausbreitung der Mikrowelle ist meist Sichtverbindung.
+9000000509	Mehrwegeausbreitung ist hier seltener.
+9000000510	Interferenz kann dennoch auftreten.
+9000000511	Die Dämpfung der Funkwelle ist proportional zur Entfernung.
+9000000512	Die Absorption durch Regen ist auf UHF höher.
+9000000513	Das Wellenwiderstand-Matching an der Antenne ist kritisch.
+9000000514	Hohe Stehwelle reduziert die effektive Leistung.
+9000000515	Wir hoffen, dass alle OMs und YLs einen guten Empfang haben.
+9000000516	Wir schließen diesen fiktiven Rundspruch mit besten Wünschen für das Hobby.
+9000000517	Denken Sie an die Leistungsanpassung Ihrer Station.
+9000000518	Überprüfen Sie regelmäßig die Rauschzahl Ihres Empfängers.
+9000000519	Nutzen Sie die Fourier-Transformation für Spektrumsanalysen.
+9000000520	Beachten Sie stets die Shannon-Grenze der Theorie.
+9000000521	Wir freuen uns auf Ihre Meldungen für den nächsten WRS.
+9000000522	Bleiben Sie aktiv auf den Bändern.
+9000000523	Achten Sie auf das Weltraumwetter und die Sonnenflecken.
+9000000524	73 de das fiktive WRS-Redaktionsteam des Distrikts Württemberg (P).
+9000000525	Wir sind für Sie da.
+9000000526	Deutscher Amateur Radio Club e.V., Distrikt Württemberg (P), meldet sich zur fiktiven Wochensendung.
+9000000527	Wir begrüßen alle YLs und OMs zum Württemberg-Rundspruch (WRS) für die fiktive 51. Kalenderwoche 2025.
+9000000528	Die Aussendung erfolgt traditionell am Sonntagvormittag um 10:30 Uhr.
+9000000529	Unsere Hauptfrequenz für diese Aussendung ist 3650 kHz in der Betriebsart LSB.
+9000000530	Zahlreiche Relaisstellen sichern die Erreichbarkeit im gesamten Distriktgebiet.
+9000000531	Das Göppinger Relais DB0RIG ist auf 145,775 MHz aktiv.
+9000000532	Die Relaisstation DB0ROB auf dem Rossberg sendet auf 145,5875 MHz.
+9000000533	Das Signal von DB0ROB wird zusätzlich in das Netz der ARIG-MN eingespeist.
+9000000534	DB0HN in Heilbronn bedient das UHF-Band auf 438,650 MHz.
+9000000535	DB0LD in Künzelsau arbeitet auf der Frequenz 439,350 MHz.
+9000000536	DB0RZ auf dem Bussen ist über 438,725 MHz zu erreichen.
+9000000537	DB0BIB in Biberach hält auf 439,175 MHz Kontakt.
+9000000538	Das Relais DB0SKF auf dem Schöllkopf sendet auf 439,4375 MHz.
+9000000539	Um 11:00 Uhr erfolgt die zweite Aussendung durch DH8IQ im Raum Mühlacker.
+9000000540	DH8IQ nutzt hierfür die Frequenz 145,475 MHz.
+9000000541	Alle genannten Uhrzeiten sind, falls nicht anders vermerkt, in MEZ angegeben.
+9000000542	Wir beginnen mit den aktuellen Meldungen aus dem Deutschland-Rundspruch.
+9000000543	Das experimentelle Lichtsegel vom Alpha-CubeSat wurde erfolgreich entfaltet.
+9000000544	Die Studenten der Cornell University bitten weiterhin um Empfangsunterstützung.
+9000000545	Funkamateure können die Telemetriesignale auf 437,400 MHz empfangen.
+9000000546	Die genutzte Modulationsart ist das digitale LoRa-Protokoll.
+9000000547	Die Bitrate der winzigen ChipSats ist entscheidend für die Auswertung.
+9000000548	Jede erfolgreiche Dekodierung der Daten ist für das Projekt von großem Wert.
+9000000549	Die Satellitenkommunikation entwickelt sich mit solchen Experimenten stetig weiter.
+9000000550	Die genaue Einstellung der Trägerfrequenz ist dabei von höchster Wichtigkeit.
+9000000551	Ein AD-Wandler im Empfänger digitalisiert die empfangene Amplitude.
+9000000552	Andreas Krüger, DJ3EI, hielt einen interessanten Online-Vortrag über JS8.
+9000000553	Das digitale JS8-Protokoll ist ideal für Ragchew bei schlechten Ausbreitungsbedingungen.
+9000000554	Es stellt eine langsame, aber äußerst robuste Alternative zu FT8 dar.
+9000000555	Die implementierte Fehlerkorrektur in JS8Call ist beeindruckend effektiv.
+9000000556	Das AJW-Referat veranstaltete einen erfolgreichen Treff-T-Videokonferenzabend.
+9000000557	Die gewählte Kanalkodierung sichert die Integrität der übertragenen Daten.
+9000000558	Am Donnerstag fand ein wichtiges Online-Treffen zum DARC-Remoteprojekt statt.
+9000000559	Das Team der Remotebetreiber beantwortete alle aufkommenden Fragen.
+9000000560	Der OV Laupheim (P49) erhielt den Förderpreis Helfende Hand.
+9000000561	Die lokale Initiative kooperiert eng mit der örtlichen Feuerwehr im Notfunk.
+9000000562	Frank Riedel, DJ3FR, ist der neue ehrenamtliche Archivar des DARC.
+9000000563	Er bringt Ordnung in die historischen Sammlungen und Akten.
+9000000564	Die neue Ausgabe der OV-Info ist mit wichtigen Themen erschienen.
+9000000565	Die Prüfungstermine der BNetzA finden demnächst in Reutlingen statt.
+9000000566	Weitere Termine sind in Nürnberg und München angesetzt.
+9000000567	Denis Mrša, DL5SFC, OVV P30, lud zum OV-P Treff auf BBB ein.
+9000000568	Das Treffen fand am Montag, den 15.12.2025, um 20:00 Uhr MEZ statt.
+9000000569	Themen waren das AJW National Meeting und die anstehende Mitgliederversammlung 2025.
+9000000570	Das offizielle Endergebnis des UKW-Contestpokals 2025 liegt vor.
+9000000571	Im OV Balingen P30 fand der 45. Tag der Begegnung statt.
+9000000572	Der OV Balingen P30 feierte außerdem seinen 60. Geburtstag.
+9000000573	Die OV-Frequenz 145.275 MHz war während der Feierlichkeiten sehr aktiv.
+9000000574	Der OV P47 lud zum beliebten Treffen zwischen den Jahren ein.
+9000000575	Der Flohmarkt des OV P06 Ludwigsburg-Oßweil ist für den 14. März 2026 geplant.
+9000000576	Horst, DL4SBK, steht für alle Flohmarktfragen zur Verfügung.
+9000000577	Der Jahresabschluss bei DLØFIS fand am 12. Dezember 2025 statt.
+9000000578	Das Jugendevent December YOTA Month wird mit DQ0YOTA und dem Sonder-DOK DYM25 gefunkt.
+9000000579	OA4/N7IDX war auf den Bändern 20-10m auf SSB sehr aktiv.
+9000000580	Vlad R9LR funkt als TY0RU aus Benin über den Satelliten QO-100.
+9000000581	Gunter, DK2WH, ist als V51WH in Namibia mit seiner Optibeam aktiv.
+9000000582	Wir kommen nun zum aktuellen Funkwetter.
+9000000583	Das Weltraumwetter zeigte eine erhöhte geomagnetische Aktivität.
+9000000584	Zwei große koronale Löcher waren die Ursache für diese Störung.
+9000000585	Die Sonnenwindgeschwindigkeiten erreichten Werte von über 750 km/s.
+9000000586	Dies führte zu einer starken Dämpfung der Funkwelle auf den unteren Bändern.
+9000000587	Die nutzbare Frequenz stieg mittags zeitweise auf 35 MHz an.
+9000000588	Magnetstürme werden aufgrund eines weiteren koronalen Loches erwartet.
+9000000589	Die starke X1,9-Sonneneruption verursachte einen Funkausfall über Australien.
+9000000590	Die Analyse der Sonnenflecken erklärt deren Stabilität.
+9000000591	Magnetische Kräfte werden im Inneren der Flecken kompensiert.
+9000000592	Dies könnte die Vorhersage von Eruptionen in Zukunft verbessern.
+9000000593	Das Online-Treff zum DARC-Remoteprojekt fand am Donnerstag, 11. Dezember 2025, um 19 Uhr statt.
+9000000594	Der Jahresabschluss bei DLØFIS des OV A18 Furtwangen war am Freitag, 12. Dezember 2025, ab 19.00 Uhr.
+9000000595	Der OV Ludwigsburg P06 feierte seinen Jahresabschluss beim TV Pflugfelden am 15.12., ab 18:30 MEZ.
+9000000596	Der OV-P Treff auf BBB mit DL5SFC war am Montag, den 15.12.2025, um 20:00 Uhr MEZ.
+9000000597	Die OV Reutlingen P07 Jahresabschlussfeier findet am 19.12., um 19:30 Uhr statt.
+9000000598	Ort der Jahresabschlussfeier ist das Restaurant Café Alter Bahnhof in Pfullingen.
+9000000599	Die 31. Kraichgau FM-Session des OV Kraichgau A22 beginnt am Sonntag, 28. Dezember 2025, um 14 Uhr.
+9000000600	Das Treffen zwischen den Jahren des OV Wendlingen P47 ist am 29.12., 12 Uhr mittags im Ochsen in Köngen angesetzt.
+9000000601	Der Flohmarkt des OV Ludwigsburg-Oßweil P06 ist für den 14. März 2026 terminiert.
+9000000602	Die Amplitude des ausgesendeten Signals definiert dessen Stärke.
+9000000603	Die Frequenz beschreibt die Anzahl der Schwingungen pro Sekunde.
+9000000604	Die Phase ist der zeitliche Versatz einer Schwingung relativ zum Nullpunkt.
+9000000605	Das zu übertragende Signal wird auf eine Trägerfrequenz aufmoduliert.
+9000000606	Die Modulation ist der Vorgang, bei dem die Information auf den Träger aufgeprägt wird.
+9000000607	Die Demodulation dient zur Rückgewinnung des ursprünglichen Signals.
+9000000608	Die Trägerfrequenz ist der Kern unserer Funkverbindung.
+9000000609	Die Bandbreite ist der belegte Bereich im Spektrum.
+9000000610	Ein Filter ist unerlässlich, um unerwünschte Frequenzen zu unterdrücken.
+9000000611	Das Rauschen ist eine unvermeidbare Störkomponente.
+9000000612	Ein hohes Signal-Rausch-Verhältnis garantiert gute Verständlichkeit.
+9000000613	Das Spektrum zeigt die Leistung des Signals über der Frequenz.
+9000000614	Die Fourier-Transformation wandelt zwischen Zeit- und Frequenz-Bereich.
+9000000615	Die Impulsantwort charakterisiert das Übertragungsverhalten eines Kanals.
+9000000616	Die Übertragungsfunktion beschreibt das Verhalten im Frequenz-Bereich.
+9000000617	Eine Leitung wie das Koaxialkabel transportiert die Hochfrequenzenergie.
+9000000618	Der Wellenwiderstand der Leitung muss an die Antennen angepasst sein.
+9000000619	Reflexion entsteht bei einer Fehlanpassung des Wellenwiderstands.
+9000000620	Eine hohe Stehwelle ist ein deutliches Zeichen für starke Reflexion.
+9000000621	Dämpfung ist der Energieverlust entlang der Leitung oder im Raum.
+9000000622	Verzerrung beschreibt die ungewollte Formänderung des Signals.
+9000000623	Multiplexing erlaubt die gemeinsame Nutzung eines Übertragungskanals.
+9000000624	Beim Zeitmultiplex teilen sich mehrere Signale den Kanal nacheinander.
+9000000625	Frequenzmultiplex trennt die Signale in verschiedene Bandbreiten.
+9000000626	Codierung ist der Prozess der Vorbereitung des Signals für die Übertragung.
+9000000627	Dekodierung ist der Umkehrprozess zur Entschlüsselung.
+9000000628	Die Fehlerkorrektur dient dazu, Übertragungsfehler zu erkennen und zu beheben.
+9000000629	Redundanz ist der Anteil an Codierung, der zur Fehlerkorrektur hinzugefügt wird.
+9000000630	Die Bitrate ist die Anzahl der Bits pro Sekunde.
+9000000631	Die Datenrate ist die effektiv übertragene Informationsmenge.
+9000000632	Die Abtastung wandelt das analoge Signal in diskrete Zeitpunkte um.
+9000000633	Quantisierung ordnet den abgetasteten Werten digitale Stufen zu.
+9000000634	PCM (Puls-Code-Modulation) ist der Standard für digitale Sprachübertragung.
+9000000635	Die Delta-Modulation ist eine effizientere Form der Abtastung.
+9000000636	Ein AD-Wandler (Analog-Digital-Wandler) ist für die Abtastung zuständig.
+9000000637	Der DA-Wandler (Digital-Analog-Wandler) erzeugt das hörbare Signal.
+9000000638	Das Nyquist-Theorem muss bei der Abtastung beachtet werden.
+9000000639	Aliasing ist ein unerwünschter Effekt bei unzureichender Abtastrate.
+9000000640	Synchronisation sorgt für den Gleichlauf von Sender und Empfänger.
+9000000641	Asynchron bedeutet, dass keine explizite Synchronisation nötig ist.
+9000000642	Synchron-Verbindungen benötigen einen gemeinsamen Taktgeber.
+9000000643	Der Taktgeber liefert das zeitliche Referenzsignal.
+9000000644	Die PLL (Phase-Locked Loop) sorgt für die genaue Frequenzstabilität.
+9000000645	Ein Schwingkreis ist ein elektronisches Bauteil, das Resonanz erzeugt.
+9000000646	Die Resonanz tritt bei einer bestimmten Frequenz auf.
+9000000647	Die Induktivität und Kapazität bestimmen die Resonanzfrequenz.
+9000000648	Der Widerstand im Schwingkreis bedingt die Güte der Resonanz.
+9000000649	Die Impedanz ist der elektrische Wechselstromwiderstand.
+9000000650	Die Admittanz ist der Kehrwert der Impedanz.
+9000000651	Die Leistung beschreibt die Energieübertragung pro Zeiteinheit.
+9000000652	Blindleistung wird zwischen Sender und Empfänger hin und her geschoben.
+9000000653	Die Wirklast ist die nutzbare, umgesetzte Leistung.
+9000000654	Die Scheinleistung ist die geometrische Summe von Wirklast und Blindleistung.
+9000000655	Die Leistungsanpassung maximiert die Übertragung der Wirklast.
+9000000656	Die HF-Technik (Hochfrequenztechnik) beschäftigt sich mit den Trägerfrequenzen.
+9000000657	Die NF-Technik (Niederfrequenztechnik) ist für die Audioverarbeitung zuständig.
+9000000658	Die Mikrowelle-Technik nutzt sehr hohe Frequenzen im GHz-Bereich.
+9000000659	Antennen sind die Schnittstelle zwischen Leitung und freiem Raum.
+9000000660	Die Dipolantenne ist die einfachste und grundlegendste Antennen-Form.
+9000000661	Die Yagi-Antenne bietet gerichteten Gewinn durch Direktor und Reflektor.
+9000000662	Die Parabolantenne wird für Satellitenkommunikation eingesetzt.
+9000000663	Das Richtdiagramm beschreibt die räumliche Abstrahlcharakteristik.
+9000000664	Die Polarisation ist die Schwingungsrichtung des elektrischen Feldes der Funkwelle.
+9000000665	Die Funkwelle ist die elektromagnetische Welle, die wir zur Datenübertragung nutzen.
+9000000666	Die Ausbreitung der Funkwelle wird durch das Weltraumwetter beeinflusst.
+9000000667	Der Dämpfungsfaktor quantifiziert den Leistungs-Verlust über eine Strecke.
+9000000668	Fading sind die schnellen Schwankungen der Signal-Amplitude.
+9000000669	Mehrwegeausbreitung ist eine häufige Ursache für das Phänomen Fading.
+9000000670	Interferenz entsteht durch die Überlagerung mehrerer Funkwellen.
+9000000671	Beugung ermöglicht das Funken über Hindernisse hinweg.
+9000000672	Brechung beschreibt die Ablenkung der Funkwelle an Materialgrenzen.
+9000000673	Reflexion an der Ionosphäre ermöglicht DX auf Kurzwelle.
+9000000674	Absorption ist der Energieverlust der Funkwelle im Medium.
+9000000675	Es gibt viele verschiedene Modulationsarten zur Auswahl.
+9000000676	AM (Amplitudenmodulation) ist die älteste Modulationsart.
+9000000677	FM (Frequenzmodulation) ist auf UKW im Amateurfunk Standard.
+9000000678	PM (Phasenmodulation) ist eng verwandt mit der FM-Modulation.
+9000000679	QAM (Quadratur-Amplitudenmodulation) wird für hohe Datenraten genutzt.
+9000000680	PSK (Phasen-Umschaltverfahren) ist eine rein digitale Modulationsart.
+9000000681	FSK (Frequenz-Umschaltverfahren) wird im LoRa-Protokoll verwendet.
+9000000682	ASK (Amplituden-Umschaltverfahren) ist die einfachste digitale Modulation.
+9000000683	OFDM (Orthogonal Frequency Division Multiplexing) nutzt viele Unterträger.
+9000000684	MIMO (Multiple-Input Multiple-Output) verwendet mehrere Antennen gleichzeitig.
+9000000685	Beamforming bündelt die Energie mithilfe des Richtdiagramms.
+9000000686	Diversity-Techniken verbessern die Zuverlässigkeit des Empfangs.
+9000000687	Kanalkodierung dient dem Schutz der Daten während der Übertragung.
+9000000688	Ein Blockcode fasst die Daten in Blöcken zusammen.
+9000000689	Ein Faltungscode arbeitet kontinuierlich über das Signal.
+9000000690	Der Turbo-Code ist eine besonders leistungsfähige Kanalkodierung.
+9000000691	LDPC (Low-Density Parity-Check) ist eine moderne Alternative zum Turbo-Code.
+9000000692	CRC (Cyclic Redundancy Check) ist ein einfacher Fehlerkorrektur-Code.
+9000000693	Der Hamming-Code kann einzelne Bitfehler korrigieren.
+9000000694	Die Shannon-Grenze definiert das theoretische Maximum der Datenrate.
+9000000695	Der Informationsgehalt eines Signals wird in Bits gemessen.
+9000000696	Die Entropie ist ein Maß für die Unsicherheit der Quelle.
+9000000697	Quellencodierung reduziert die Redundanz der Quelle selbst.
+9000000698	Der Huffman-Code ist ein klassisches Verfahren der Quellencodierung.
+9000000699	Lempel-Ziv Algorithmen dienen zur Kompression von Textdaten.
+9000000700	Kompression ist entscheidend, um die Bandbreite effizient zu nutzen.
+9000000701	Die Datenübertragung ist der gesamte Vorgang von Sender zu Empfänger.
+9000000702	Das Netzwerk verbindet verschiedene Knotenpunkte der Satellitenkommunikation.
+9000000703	Ein Protokoll regelt die Kommunikationsregeln im Netzwerk.
+9000000704	Das OSI-Modell ist das Referenzmodell für Kommunikationsprotokolle.
+9000000705	TCP/IP ist das weltweit wichtigste Protokoll im Internet.
+9000000706	Ethernet ist der Standard für kabelgebundene lokale Netzwerke.
+9000000707	WLAN (Wireless Local Area Network) nutzt Funkwellen im GHz-Bereich.
+9000000708	Bluetooth ist eine drahtlose Übertragung auf kurzer Distanz.
+9000000709	ZigBee wird häufig für Smart-Home-Anwendungen genutzt.
+9000000710	LTE (Long Term Evolution) war ein wichtiger Schritt in der Mobilfunk-Entwicklung.
+9000000711	5G ist der neueste Standard mit sehr hohen Datenraten.
+9000000712	GSM war die zweite Generation des Mobilfunks.
+9000000713	UMTS (Universal Mobile Telecommunications System) folgte auf GSM.
+9000000714	CDMA (Code Division Multiple Access) teilt den Kanal per Codierung.
+9000000715	TDMA (Time Division Multiple Access) nutzt Zeitmultiplex.
+9000000716	FDMA (Frequency Division Multiple Access) nutzt Frequenzmultiplex.
+9000000717	SDMA (Space Division Multiple Access) teilt den Raum mithilfe von Beamforming.
+9000000718	Die Basisstation bildet den zentralen Knotenpunkt einer Mobilfunkzelle.
+9000000719	Die Mobilfunkzelle definiert den Versorgungsbereich der Basisstation.
+9000000720	Satellitenkommunikation ist essentiell für interkontinentale Verbindungen.
+9000000721	Radar (Radio Detection and Ranging) nutzt die Reflexion von Funkwellen.
+9000000722	Sonar nutzt Schallwellen unter Wasser, ist aber konzeptionell verwandt mit Radar.
+9000000723	Optische Kommunikation nutzt Lichtwellenleiter zur Übertragung.
+9000000724	Der Lichtwellenleiter ist das Medium für die Optische Kommunikation.
+9000000725	Glasfaser ist die gebräuchlichste Form des Lichtwellenleiters.
+9000000726	Dispersion ist ein Effekt, der die Bandbreite von Glasfaser begrenzt.
+9000000727	Ein Dämpfungsglied reduziert die Leistung eines Signals kontrolliert.
+9000000728	Ein Verstärker erhöht die Amplitude eines Signals.
+9000000729	Der Richtkoppler misst die Vor- und Rücklaufleistung des Senders.
+9000000730	Ein Splitter teilt die Leistung auf mehrere Ausgänge auf.
+9000000731	Ein Combiner fasst mehrere Signale zu einem zusammen.
+9000000732	Der Isolator verhindert, dass Reflexionen zur Quelle zurücklaufen.
+9000000733	Der Zirkulator trennt Sende- und Empfangsweg für Simultanbetrieb.
+9000000734	Ein Mischer erzeugt neue Frequenzen durch Überlagerung zweier Signale.
+9000000735	Der Oszillator erzeugt die benötigten Trägerfrequenzen.
+9000000736	Die Verstärkerklasse bestimmt den Wirkungsgrad des Verstärkers.
+9000000737	Klasse A Verstärker haben die höchste Linearität und den geringsten Wirkungsgrad.
+9000000738	Klasse B Verstärker haben einen höheren Wirkungsgrad, aber geringere Linearität.
+9000000739	Klasse AB Verstärker stellen einen guten Kompromiss dar.
+9000000740	Klasse C Verstärker sind für FM und CW geeignet, da sie nichtlinear sind.
+9000000741	Klasse D Verstärker sind Schaltnetzteile und sehr effizient.
+9000000742	Klasse E und Klasse F sind weitere Typen von Schaltverstärkern.
+9000000743	Ein Transistor ist das elementare Halbleiterbauelement.
+9000000744	Der MOSFET ist ein weit verbreiteter Feldeffekttransistor.
+9000000745	Der BJT (Bipolar Junction Transistor) ist der klassische Transistor.
+9000000746	Der JFET ist ein weiterer Typ des Feldeffekttransistors.
+9000000747	Dioden dienen als Gleichrichter in der Stromversorgung.
+9000000748	Die Zenerdiode stabilisiert die Spannung in Schaltkreisen.
+9000000749	Der Varaktor ist eine Halbleiterdiode, deren Kapazität spannungsabhängig ist.
+9000000750	Der Gleichrichter wandelt Wechselstrom in Gleichstrom um.
+9000000751	Ein Schaltnetzteil ist ein Gleichrichter mit hoher Effizienz und geringer Größe.
+9000000752	Der HF-Verstärker ist spezialisiert auf hohe Frequenzen.
+9000000753	Der NF-Verstärker steigert die Amplitude des Audiosignals.
+9000000754	Die Rauschzahl ist ein Maß für das Eigenrauschen eines Empfängers.
+9000000755	Die QSL-Anfragen für DQ0YOTA werden über QRZ.com abgewickelt.
+9000000756	Wir gratulieren den Gewinnern des UKW-Contestpokals 2025 zu ihrem Erfolg.
+9000000757	Die VHF-/UHF-Mikrowellenwettbewerbe erfreuen sich weiterhin großer Beliebtheit.
+9000000758	Im OV Balingen P30 war die Stimmung beim Jubiläum hervorragend.
+9000000759	DL5SFC wird die Ergebnisse des OV-P Treffs dem DV-P melden.
+9000000760	Das DARC-Remoteprojekt bietet Funkamateuren Zugang zu weit entfernten Bändern.
+9000000761	Die Software JS8Call kann auch auf schwächeren Rechnern ausgeführt werden.
+9000000762	Das Lichtsegel des Alpha-CubeSat soll die Ausbreitung im Orbit testen.
+9000000763	Die Datenrate der Telemetriesignale ist sehr niedrig gehalten.
+9000000764	Die Fehlerkorrektur ist in so einem LoRa-Protokoll zwingend notwendig.
+9000000765	Die geomagnetische Aktivität wird von Observatorien weltweit überwacht.
+9000000766	Die aktuelle Hochphase des elfjährigen Sonnenzyklus ist für DX von Vorteil.
+9000000767	Die Absorption in der Ionosphäre steigt bei Sonneneruptionen drastisch an.
+9000000768	Gunter, DK2WH, nutzt in Namibia die gerichtete Yagi-Antenne bewusst.
+9000000769	Vlad R9LR zeigt die Möglichkeiten der Satellitenkommunikation über QO-100.
+9000000770	Die Parabolantenne für QO-100 muss sehr präzise ausgerichtet sein.
+9000000771	Die Polarisation für den QO-100 ist zirkular und muss beachtet werden.
+9000000772	Das Netzwerk der Relaisstellen im Distrikt wird ständig gewartet.
+9000000773	Ethernet wird für die Anbindung der Relais an das Netzwerk verwendet.
+9000000774	WLAN dient an manchen Standorten als Backup-Verbindung.
+9000000775	Die Leistungsanpassung ist für die Relais-Antennen kritisch.
+9000000776	Eine hohe Stehwelle würde die Leistung der Relais reduzieren.
+9000000777	Die Dämpfung der Koaxialkabel muss regelmäßig gemessen werden.
+9000000778	Alexander Gerst, KF5ONO, ist ein Vorbild für viele junge YOTA-Teilnehmer.
+9000000779	Die Synchronisation der Taktgeber ist im digitalen Amateurfunk sehr wichtig.
+9000000780	Das Nyquist-Theorem verhindert beim AD-Wandler das gefürchtete Aliasing.
+9000000781	Die Quantisierung bestimmt die Auflösung des digitalen Signals.
+9000000782	Die Kompression der Sprachdaten spart wertvolle Bandbreite.
+9000000783	Der Huffman-Code ist eine Form der Quellencodierung ohne Informationsverlust.
+9000000784	Die Shannon-Grenze kann in der Praxis nie ganz erreicht werden.
+9000000785	LDPC-Codes kommen auch in der modernen 5G-Basisstation zum Einsatz.
+9000000786	MIMO und Beamforming sind Schlüsseltechnologien in der Mobilfunkzelle.
+9000000787	TDMA, CDMA und FDMA sind grundlegende Multiplexing-Prinzipien.
+9000000788	Die Optische Kommunikation hat die Datenrate im Weitverkehr revolutioniert.
+9000000789	Die Glasfaser hat eine extrem niedrige Dämpfung.
+9000000790	Die Dispersion muss über lange Strecken kompensiert werden.
+9000000791	Der Richtkoppler ist ein unverzichtbares Messinstrument für die HF-Technik.
+9000000792	Ein Splitter wird verwendet, um eine Antenne mit zwei Empfängern zu verbinden.
+9000000793	Der Combiner fasst die Leistung von zwei Verstärkern zusammen.
+9000000794	Der Isolator schützt den Oszillator vor rücklaufender Leistung.
+9000000795	Der Zirkulator dient zur Entkopplung des Sende- und Empfangsweges.
+9000000796	Der Mischer erzeugt eine Zwischenfrequenz im Superhet-Empfänger.
+9000000797	Der Oszillator ist der Taktgeber des gesamten Transceivers.
+9000000798	Die Verstärkerklasse Klasse A wird oft für Messsender gewählt.
+9000000799	MOSFET-Transistoren dominieren die moderne HF-Verstärker-Entwicklung.
+9000000800	Die Zenerdiode dient als Referenzspannungsquelle im Schaltnetzteil.
+9000000801	Der Varaktor kann zur elektronischen Frequenzabstimmung genutzt werden.
+9000000802	JFET-Transistoren werden oft in rauscharmen NF-Verstärkern eingesetzt.
+9000000803	Die Rauschzahl ist ein Kriterium für die Empfindlichkeit des Empfängers.
+9000000804	Ein Dämpfungsglied kann bei zu starken Signalen nützlich sein.
+9000000805	Der Gleichrichter muss die Leistung für den gesamten Transceiver bereitstellen.
+9000000806	Die NF-Technik der Sprache muss klar und ohne Verzerrung sein.
+9000000807	Wir hoffen auf eine weitere Woche mit geringer geomagnetischer Aktivität.
+9000000808	Die Induktivität einer Spule ist entscheidend für den Schwingkreis.
+9000000809	Die Kapazität eines Kondensators bestimmt die Resonanz.
+9000000810	Der ohmsche Widerstand beeinflusst die Dämpfung des Schwingkreises.
+9000000811	Die Admittanz ist besonders im Leitungsbau relevant.
+9000000812	Blindleistung entsteht durch die Kapazität und Induktivität der Antennen-Anlage.
+9000000813	Wirklast ist die netto übertragene Leistung.
+9000000814	Die Scheinleistung ist die gesamte elektrische Leistung.
+9000000815	Das Protokoll des LoRa-Protokolls ist auf Redundanz optimiert.
+9000000816	Lempel-Ziv ist ein Kompressions-Algorithmus für digitale Daten.
+9000000817	Das Spektrum der FM-Modulation ist breiter als das von SSB.
+9000000818	Die Impulsantwort eines Filters ist zeitlich begrenzt.
+9000000819	Die Übertragungsfunktion wird mittels komplexer Zahlen dargestellt.
+9000000820	Die Dipolantenne strahlt mit einer Polarisation ab.
+9000000821	Die Beugung der Funkwelle ermöglicht den Empfang hinter Hügeln.
+9000000822	Die Brechung in der Ionosphäre ist Frequenz-abhängig.
+9000000823	FSK ist robuster gegen Fading als QAM.
+9000000824	OFDM wird oft mit MIMO kombiniert.
+9000000825	Beamforming erzeugt ein scharfes Richtdiagramm der Antennen.
+9000000826	Diversity nutzt Mehrwegeausbreitung vorteilhaft.
+9000000827	Die Kanalkodierung fügt eine bestimmte Redundanz hinzu.
+9000000828	Der Blockcode wird vor der Übertragung berechnet.
+9000000829	Der Faltungscode ist eine andere Art der Codierung.
+9000000830	UMTS nutzte hauptsächlich CDMA als Multiplexing-Verfahren.
+9000000831	5G nutzt eine Kombination aus OFDM und MIMO.
+9000000832	Die Basisstation sendet kontinuierlich ein Synchron-Signal.
+9000000833	Die Satellitenkommunikation erfordert eine hohe Sendeleistung.
+9000000834	Radar kann die Geschwindigkeit von Objekten messen.
+9000000835	Lichtwellenleiter übertragen das Signal optisch.
+9000000836	Das Schaltnetzteil arbeitet mit sehr hohen Frequenzen.
+9000000837	Die Verstärkerklasse Klasse D ist ideal für Batterieversorgung.
+9000000838	Der Transistor BJT ist spannungsgesteuert.
+9000000839	Die Dioden schützen empfindliche Eingänge vor Überlastung.
+9000000840	Der Richtkoppler hilft bei der Leistungsanpassung.
+9000000841	Die Bitrate ist ein Maß für die Geschwindigkeit der Datenübertragung.
+9000000842	Die PLL hält die Trägerfrequenz stabil.
+9000000843	PCM ist die Grundlage der digitalen Telefonie.
+9000000844	Die AD-Wandler in modernen SDRs sind sehr präzise.
+9000000845	Die DA-Wandler rekonstruieren das Audiosignal.
+9000000846	Die Asynchron-Übertragung benötigt Start- und Stoppbits.
+9000000847	Die Synchron-Übertragung ist effizienter, aber komplexer.
+9000000848	Die Entropie der Quelle bestimmt die theoretische Kompression.
+9000000849	Das Protokoll TCP/IP arbeitet auf Schicht 3 und 4 des OSI-Modells.
+9000000850	Bluetooth nutzt das Frequenzmultiplex-Verfahren FHSS.
+9000000851	Die Mobilfunkzelle wird durch SDMA effizienter genutzt.
+9000000852	Die Rauschzahl sollte bei HF-Verstärkern besonders niedrig sein.
+9000000853	NF-Verstärker sind für die Ausgabe der Demodulation verantwortlich.
+9000000854	Die Mikrowelle-Frequenz 10 GHz bietet viel Bandbreite.
+9000000855	Die Amplitude der Funkwelle wird durch Fading ständig moduliert.
+9000000856	Die Phase des Signals ist bei PSK die Informationsträgerin.
+9000000857	Der Filter zur Demodulation muss auf die Bandbreite abgestimmt sein.
+9000000858	Rauschen ist ein zufälliges Signal im Spektrum.
+9000000859	Das Signal-Rausch-Verhältnis ist in der Shannon-Grenze berücksichtigt.
+9000000860	Die Leitung ist das Bindeglied zwischen Verstärker und Antennen.
+9000000861	Der Wellenwiderstand des Koaxialkabels beträgt typischerweise 50 Ohm.
+9000000862	Verzerrung kann durch nichtlineare Verstärker entstehen.
+9000000863	Zeitmultiplex teilt die Datenrate unter den Nutzern auf.
+9000000864	Codierung und Dekodierung sind immer paarweise angeordnet.
+9000000865	Die Redundanz muss für die Fehlerkorrektur ausreichend sein.
+9000000866	Die Abtastung erfolgt mit dem Taktgeber des AD-Wandlers.
+9000000867	Der Schwingkreis des Oszillators ist hoch selektiv.
+9000000868	Die Resonanz ist eine Frequenz-spezifische Erscheinung.
+9000000869	Leistung ist ein entscheidender Parameter im Amateurfunk.
+9000000870	Wirklast wird in Wärme und Funkwelle umgewandelt.
+9000000871	Die Dipolantenne hat ein omnidirektionales Richtdiagramm.
+9000000872	Mehrwegeausbreitung erzeugt Interferenz am Empfänger.
+9000000873	Die Beugung der Funkwelle ist ein Wellenphänomen.
+9000000874	Die Absorption durch Regen nimmt mit der Frequenz zu.
+9000000875	AM ist sehr anfällig für Rauschen.
+9000000876	PSK ist sehr effizient in Bezug auf die Bandbreite.
+9000000877	ASK wird selten für Sprache, aber oft für Daten genutzt.
+9000000878	Turbo-Codes gehören zur Kanalkodierung.
+9000000879	Der Hamming-Code arbeitet mit der Paritätsprüfung.
+9000000880	Der Informationsgehalt wird durch Kompression nicht verändert.
+9000000881	Das Netzwerk des Internets ist ein großes TCP/IP-System.
+9000000882	ZigBee nutzt WLAN-Frequenzen, aber mit anderer Modulation.
+9000000883	LTE war der Vorgänger von 5G.
+9000000884	GSM-Sprachkanäle nutzten TDMA.
+9000000885	Radar-Signale haben eine hohe Amplitude.
+9000000886	Optische Kommunikation hat keine Probleme mit Interferenz durch Funkwelle.
+9000000887	Der Varaktor wird zur automatischen Frequenz-Steuerung verwendet.
+9000000888	Das Schaltnetzteil ist leichter als ein konventioneller Gleichrichter.
+9000000889	Die HF-Verstärker benötigen eine gute Kühlung.
+9000000890	Die NF-Verstärker müssen die Sprache klar wiedergeben.
+9000000891	Der Richtkoppler misst das VSWR, also die Stehwelle.
+9000000892	Der Splitter wird für Diversity-Empfang eingesetzt.
+9000000893	Der Combiner ermöglicht die gemeinsame Nutzung einer Antennen-Anlage.
+9000000894	Der Isolator schützt den Oszillator vor Reflexion.
+9000000895	Der Zirkulator wird oft in Duplex-Systemen verwendet.
+9000000896	Der Mischer ist ein nichtlineares Bauelement.
+9000000897	Der Oszillator erzeugt eine sinusförmige Amplitude.
+9000000898	Klasse A Verstärker verbrauchen viel Leistung.
+9000000899	BJT-Transistoren haben eine geringere Rauschzahl als MOSFETs.
+9000000900	Die Dioden im Gleichrichter müssen hohe Ströme verkraften.
+9000000901	Die Induktivität ist der Widerstand gegen Stromänderungen.
+9000000902	Die Kapazität speichert elektrische Leistung.
+9000000903	Der Widerstand wandelt elektrische Leistung in Wärme um.
+9000000904	Die Impedanz ist Frequenz-abhängig.
+9000000905	Die Admittanz vereinfacht die Analyse von Parallelschaltungen.
+9000000906	Blindleistung und Wirklast bilden die Scheinleistung.
+9000000907	Eine Leistungsanpassung ist bei jeder Frequenz notwendig.
+9000000908	Die HF-Technik befasst sich mit Schaltungen bis in den Mikrowelle-Bereich.
+9000000909	Die NF-Technik wird auch als Audio-Technik bezeichnet.
+9000000910	Die Yagi-Antenne hat eine gerichtete Polarisation.
+9000000911	Die Ausbreitung über die Ionosphäre ist durch Reflexion bedingt.
+9000000912	Der Dämpfungsfaktor steigt im Falle einer geomagnetischen Aktivität.
+9000000913	Fading ist besonders bei Mehrwegeausbreitung spürbar.
+9000000914	Interferenz kann konstruktiv oder destruktiv sein.
+9000000915	Die Brechung der Funkwelle ist der Grund für die F-Schicht.
+9000000916	Die Absorption in der D-Schicht ist tagsüber hoch.
+9000000917	PM ist weniger anfällig für Rauschen als AM.
+9000000918	OFDM wird durch die Fourier-Transformation realisiert.
+9000000919	MIMO erfordert komplexe Codierung und Dekodierung.
+9000000920	Beamforming erzeugt ein virtuelles Richtdiagramm.
+9000000921	Diversity nutzt mehrere unabhängige Empfangszweige.
+9000000922	Kanalkodierung erhöht die Datenrate der Rohdaten.
+9000000923	Blockcode-Verfahren sind einfach zu implementieren.
+9000000924	Lempel-Ziv wird zur Kompression von Text und Binärdaten verwendet.
+9000000925	Datenübertragung ist das Hauptziel der Nachrichtentechnik.
+9000000926	Das Netzwerk kann drahtlos oder kabelgebunden sein.
+9000000927	Das Protokoll TCP sorgt für zuverlässige Übertragung.
+9000000928	Das OSI-Modell hat sieben Schichten.
+9000000929	Ethernet wird meistens für die letzte Meile genutzt.
+9000000930	WLAN kann durch Interferenz gestört werden.
+9000000931	Bluetooth hat eine geringe Reichweite.
+9000000932	LTE ist ein Basisstation-gebundenes Netzwerk.
+9000000933	UMTS nutzte CDMA als Multiplexing.
+9000000934	FDMA teilt die Bandbreite fest zu.
+9000000935	SDMA ist eine Form des räumlichen Multiplexing.
+9000000936	Die Basisstation verwaltet alle Mobilfunkzelle-Kunden.
+9000000937	Satellitenkommunikation nutzt geostationäre oder niedrige Orbits.
+9000000938	Radar kann die Position von Flugzeugen messen.
+9000000939	Optische Kommunikation nutzt die Amplitude des Lichts.
+9000000940	Dispersion tritt auf, wenn Licht unterschiedliche Geschwindigkeiten hat.
+9000000941	Der Dämpfungsglied schützt den HF-Verstärker.
+9000000942	Der Verstärker erhöht die Leistung der Funkwelle.
+9000000943	Der Splitter teilt die Leistung auf zwei Leitungen.
+9000000944	Der Combiner wird im Frequenzmultiplex eingesetzt.
+9000000945	Der Isolator basiert auf Ferritmaterialien.
+9000000946	Der Zirkulator ermöglicht gleichzeitiges Senden und Empfangen.
+9000000947	Der Mischer erzeugt Summen- und Differenzfrequenzen.
+9000000948	Der Oszillator muss einen stabilen Taktgeber nutzen.
+9000000949	Klasse B Verstärker benötigen eine Vorspannung.
+9000000950	MOSFETs sind spannungsgesteuert.
+9000000951	Dioden haben eine Sperrschicht.
+9000000952	Die Zenerdiode arbeitet in Sperrrichtung.
+9000000953	Der Gleichrichter ist Teil des Schaltnetzteils.
+9000000954	HF-Verstärker sind kritisch für die Stehwelle.
+9000000955	Die NF-Verstärker nutzen meist Klasse AB.
+9000000956	Die Rauschzahl wird in Dezibel (dB) angegeben.
+9000000957	Die Amplitude der Trägerfrequenz ist bei FM konstant.
+9000000958	Die Phase des Signals ist bei QAM moduliert.
+9000000959	Der Filter zur Unterdrückung von Rauschen ist ein Bandpass.
+9000000960	Das Signal-Rausch-Verhältnis ist in digitaler Übertragung wichtiger als in analoger.
+9000000961	Die Fourier-Transformation ist das Rückgrat der digitalen Demodulation.
+9000000962	Die Impulsantwort wird oft zur Entzerrung verwendet.
+9000000963	Die Übertragungsfunktion wird durch die Dämpfung beeinflusst.
+9000000964	Die Reflexion an der Leitung ist ein Indiz für Ineffizienz.
+9000000965	Verzerrung ist im Spektrum als Oberwellen sichtbar.
+9000000966	Zeitmultiplex ist in TDMA-Systemen implementiert.
+9000000967	Frequenzmultiplex ist im OFDM enthalten.
+9000000968	Die Codierung der Sprache nutzt PCM.
+9000000969	Die Dekodierung ist der DA-Wandler-Teil.
+9000000970	Die Fehlerkorrektur reduziert die Datenrate etwas.
+9000000971	Die Redundanz sorgt für eine höhere Zuverlässigkeit.
+9000000972	Die Bitrate ist das Produkt von Abtastung und Quantisierung.
+9000000973	Die Delta-Modulation ist eine vereinfachte PCM.
+9000000974	Asynchron-Übertragung ist langsamer als Synchron.
+9000000975	Taktgeber-Drift führt zu Verzerrung.
+9000000976	Die Resonanz des Schwingkreises ist ein schmalbandiger Effekt.
+9000000977	Induktivität und Kapazität bilden zusammen die Impedanz.
+9000000978	Der Widerstand in der Antennen-Anpassung ist die Wirklast.
+9000000979	Die Blindleistung wird durch die Admittanz beschrieben.
+9000000980	Die Scheinleistung ist der Betrag der komplexen Leistung.
+9000000981	HF-Technik arbeitet mit kurzen Wellenlängen.
+9000000982	Die NF-Technik arbeitet mit langen Wellenlängen.
+9000000983	Die Parabolantenne muss die Polarisation drehen können.
+9000000984	Das Richtdiagramm ist Frequenz-abhängig.
+9000000985	Die Ausbreitung der Funkwelle wird durch Beugung ergänzt.
+9000000986	Der Dämpfungsfaktor der Glasfaser ist minimal.
+9000000987	Mehrwegeausbreitung kann durch Diversity reduziert werden.
+9000000988	Interferenz ist die Grundlage der Funkpeilung.
+9000000989	Die Brechung an der Troposphäre ist für Mikrowelle wichtig.
+9000000990	Absorption ist im Lichtwellenleiter minimal.
+9000000991	FSK wird für RTTY und Packet Radio verwendet.
+9000000992	ASK wird oft für Steuerungssignale eingesetzt.
+9000000993	Turbo-Codes basieren auf iterativer Dekodierung.
+9000000994	CRC ist nur zur Erkennung, nicht zur Fehlerkorrektur gedacht.
+9000000995	Entropie ist ein statistisches Konzept.
+9000000996	Quellencodierung ist vor der Kanalkodierung anzuwenden.
+9000000997	TCP/IP ist das erfolgreichste Protokoll aller Zeiten.
+9000000998	Ethernet wird in den Shack für hohe Datenraten genutzt.
+9000000999	WLAN auf 2,4 GHz hat Probleme mit Interferenz.
+9000001000	5G nutzt extrem viel Bandbreite.
+9000001001	CDMA teilt den Kanal durch orthogonale Codierung.
+9000001002	TDMA teilt den Kanal in feste Zeitschlitze.
+9000001003	FDMA ist die älteste Form des Multiplexing.
+9000001004	SDMA ist eine fortgeschrittene Technik.
+9000001005	Die Basisstation ist der Kern der Mobilfunkzelle.
+9000001006	Satellitenkommunikation ist durch die große Laufzeit limitiert.
+9000001007	Radar arbeitet mit der Reflexion von Impulsen.
+9000001008	Optische Kommunikation hat keine Probleme mit Rauschen der Funkwelle.
+9000001009	Glasfaser ist immun gegen elektromagnetische Interferenz.
+9000001010	Der Dämpfungsglied schützt den Empfänger vor Übersteuerung.
+9000001011	Ein Verstärker fügt immer etwas Rauschen hinzu.
+9000001012	Der Richtkoppler ist Frequenz-selektiv.
+9000001013	Der Splitter teilt die Amplitude.
+9000001014	Der Combiner ist das Gegenteil des Splitters.
+9000001015	Der Isolator wird oft vor HF-Verstärkern eingesetzt.
+9000001016	Der Zirkulator ist ein Dreitor-Bauelement.
+9000001017	Der Mischer ist der erste Schritt zur Demodulation.
+9000001018	Der Oszillator erzeugt die Überlagerungsfrequenz.
+9000001019	Klasse A Verstärker sind immer leitend.
+9000001020	Klasse AB Verstärker sind ein guter Kompromiss.
+9000001021	Klasse D Verstärker nutzen Pulswellenmodulation.
+9000001022	BJT-Transistoren sind stromgesteuert.
+9000001023	Die Zenerdiode wird als Shunt-Regler verwendet.
+9000001024	Der Varaktor ist eine abstimmbare Kapazität.
+9000001025	Schaltnetzteile erzeugen weniger Wärme.
+9000001026	Die HF-Verstärker müssen Verzerrung vermeiden.
+9000001027	NF-Verstärker arbeiten im Audio-Spektrum.
+9000001028	Die Rauschzahl ist die Ratio von Eingangs- zu Ausgangs-SNR.
+9000001029	Amplitude und Phase bestimmen die komplexe Amplitude.
+9000001030	Das Signal wird durch das Koaxialkabel übertragen.
+9000001031	Das Spektrum zeigt die Bandbreite des Signals.
+9000001032	Die Impulsantwort beschreibt das zeitliche Verhalten.
+9000001033	Stehwelle ist das Ergebnis von Reflexion.
+9000001034	Dämpfung reduziert die Leistung.
+9000001035	Multiplexing maximiert die Kanalnutzung.
+9000001036	Codierung und Dekodierung sind essentiell für digitale Übertragung.
+9000001037	Redundanz kostet Datenrate.
+9000001038	Die Abtastung erzeugt die diskreten Werte.
+9000001039	Quantisierung hat einen Quantisierungsfehler.
+9000001040	Synchron-Systeme benötigen einen präzisen Taktgeber.
+9000001041	Die PLL ist ein wichtiges Element der Frequenzstabilität.
+9000001042	Induktivität und Widerstand bestimmen die Drossel.
+9000001043	Die Kapazität ist im Kondensator gespeichert.
+9000001044	Impedanz ist die Kombination von Widerstand und Reaktanz.
+9000001045	Leistung wird als Sendeleistung in Watt angegeben.
+9000001046	Die Leistungsanpassung minimiert die Stehwelle.
+9000001047	Die HF-Technik verwendet auch Lichtwellenleiter.
+9000001048	Die NF-Technik wird durch AD-Wandler und DA-Wandler beeinflusst.
+9000001049	Die Mikrowelle-Antennen sind meistens Parabolantennen.
+9000001050	Die Yagi-Antenne nutzt parasitäre Elemente.
+9000001051	Die Polarisation ist entweder horizontal oder vertikal.
+9000001052	Die Ausbreitung der Funkwelle ist von der Tageszeit abhängig.
+9000001053	Fading ist besonders auf Kurzwelle ein Problem.
+9000001054	Interferenz durch Mehrwegeausbreitung ist schwer zu korrigieren.
+9000001055	Beugung um die Erde ist bei niedrigen Frequenzen möglich.
+9000001056	Brechung in der Atmosphäre ist für UKW-Ausbreitung wichtig.
+9000001057	Die Absorption der Funkwelle ist ein Energieverlust.
+9000001058	QAM und PSK sind sehr spektral-effizient.
+9000001059	OFDM überwindet Fading durch viele langsame Symbole.
+9000001060	Beamforming erhöht die Amplitude des Signals.
+9000001061	Diversity nutzt die Tatsache der Mehrwegeausbreitung.
+9000001062	Kanalkodierung dient zur Einhaltung der Shannon-Grenze.
+9000001063	Lempel-Ziv wird oft in der Datenübertragung eingesetzt.
+9000001064	Das Netzwerk der Relaisstellen nutzt das Protokoll Echolink.
+9000001065	TCP/IP wird über UMTS und LTE übertragen.
+9000001066	GSM war die erste digitale Mobilfunkzelle.
+9000001067	Satellitenkommunikation ist die zuverlässigste Datenübertragung über weite Strecken.
+9000001068	Radar sendet kurze, energiereiche Impulse aus.
+9000001069	Optische Kommunikation nutzt die Bandbreite des Lichts.
+9000001070	Glasfaser hat keine Probleme mit Blindleistung.
+9000001071	Dispersion ist ein Effekt, der die Phase des Lichts beeinflusst.
+9000001072	Ein Dämpfungsglied kann Verzerrung durch Übersteuerung verhindern.
+9000001073	Ein Verstärker der Klasse C ist nicht für SSB geeignet.
+9000001074	Der Mischer ist ein aktives Bauelement.
+9000001075	Der Oszillator muss temperaturstabil sein.
+9000001076	Transistor-Rauschen erhöht die Rauschzahl.
+9000001077	Die Dioden in der PLL regeln die Phase.
+9000001078	Der Gleichrichter liefert die DC-Spannung.
+9000001079	Schaltnetzteile können Rauschen ins Spektrum abstrahlen.
+9000001080	Die Bitrate von DQ0YOTA ist sehr variabel.
+9000001081	OA4/N7IDX war auf SSB mit hoher Amplitude zu hören.
+9000001082	TY0RU funkt über QO-100 mit zirkularer Polarisation.
+9000001083	V51WH nutzt die Dipolantenne als Yagi-Antenne-Element.
+9000001084	Die geomagnetische Aktivität wird durch den Dämpfungsfaktor messbar.
+9000001085	Sonnenwindgeschwindigkeiten korrelieren stark mit der geomagnetischen Aktivität.
+9000001086	Die Sonneneruption erzeugt eine plötzliche Absorption auf der Tagseite.
+9000001087	Die Stabilität der Sonnenflecken ist ein Forschungsgebiet der HF-Technik.
+9000001088	Die Phase des Signals ist bei digitaler Modulation sehr wichtig.
+9000001089	Die Frequenz der Resonanz ist exakt definiert.
+9000001090	Die Impedanz des Oszillators ist hochohmig.
+9000001091	Die Admittanz des Senders ist niederohmig.
+9000001092	Die Scheinleistung ist bei Fehlanpassung hoch.
+9000001093	Die NF-Technik der Rundsprüche muss verständlich sein.
+9000001094	Beugung um die Mobilfunkzelle ist eine Ausbreitungsart.
+9000001095	CRC wird zur Prüfsummenbildung verwendet.
+9000001096	Entropie ist ein grundlegendes Konzept der Informationstheorie.
+9000001097	Die Basisstation ist der Sender der Mobilfunkzelle.
+9000001098	TDMA ist ein Zeitmultiplex-Verfahren.
+9000001099	FDMA ist ein Frequenzmultiplex-Verfahren.
+9000001100	SDMA ist eine Form des Multiplexing im Raum.
+9000001101	Die Dispersion ist eine Form der Verzerrung.
+9000001102	Der Mischer benötigt einen stabilen Oszillator.
+9000001103	Die PLL steuert den Oszillator.
+9000001104	Die AD-Wandler bestimmen die erreichbare Datenrate.
+9000001105	Die DA-Wandler sind für die Wiedergabe wichtig.
+9000001106	Die PCM-Codierung ist robust.
+9000001107	Die Delta-Modulation ist spektral effizient.
+9000001108	Das Nyquist-Theorem limitiert die Abtastung.
+9000001109	Aliasing muss unbedingt vermieden werden.
+9000001110	Synchronisation der Phase ist bei PSK entscheidend.
+9000001111	Der Taktgeber steuert die Bitrate.
+9000001112	Induktivität und Kapazität bestimmen die Frequenz des Schwingkreises.
+9000001113	Widerstand und Dämpfung sind eng verwandt.
+9000001114	Leistungsanpassung maximiert die Wirklast.
+9000001115	Koaxialkabel sind eine Form der Leitung.
+9000001116	Reflexion des Signals kann zu Oberwellen führen.
+9000001117	Die Codierung ist die erste Stufe der Datenübertragung.
+9000001118	Die Dekodierung ist der letzte Schritt vor der Ausgabe.
+9000001119	Fehlerkorrektur erfordert Redundanz.
+9000001120	Die Bitrate ist höher als die effektive Datenrate.
+9000001121	Asynchron-Systeme sind einfach.
+9000001122	Synchron-Systeme sind schnell.
+9000001123	Wir hoffen, dass alle OMs und YLs einen guten Empfang hatten.
+9000001124	Wir wünschen beste Ausbreitung und störungsfreien Funkbetrieb in der kommenden Woche.
+9000001125	73 de das fiktive WRS-Redaktionsteam des Distrikts Württemberg (P).
