@@ -574,9 +574,9 @@
 9000000574	Der OV P47 lud zum beliebten Treffen zwischen den Jahren ein.
 9000000575	Der Flohmarkt des OV P06 Ludwigsburg-Oßweil ist für den 14. März 2026 geplant.
 9000000576	Horst, DL4SBK, steht für alle Flohmarktfragen zur Verfügung.
-9000000577	Der Jahresabschluss bei DLØFIS fand am 12. Dezember 2025 statt.
+9000000577	Der Jahresabschluss bei DL0FIS fand am 12. Dezember 2025 statt.
 9000000578	Das Jugendevent December YOTA Month wird mit DQ0YOTA und dem Sonder-DOK DYM25 gefunkt.
-9000000579	OA4/N7IDX war auf den Bändern 20-10m auf SSB sehr aktiv.
+9000000579	OA4/N7IDX war auf den Bändern 10m bis 20m auf SSB sehr aktiv.
 9000000580	Vlad R9LR funkt als TY0RU aus Benin über den Satelliten QO-100.
 9000000581	Gunter, DK2WH, ist als V51WH in Namibia mit seiner Optibeam aktiv.
 9000000582	Wir kommen nun zum aktuellen Funkwetter.
@@ -591,7 +591,7 @@
 9000000591	Magnetische Kräfte werden im Inneren der Flecken kompensiert.
 9000000592	Dies könnte die Vorhersage von Eruptionen in Zukunft verbessern.
 9000000593	Das Online-Treff zum DARC-Remoteprojekt fand am Donnerstag, 11. Dezember 2025, um 19 Uhr statt.
-9000000594	Der Jahresabschluss bei DLØFIS des OV A18 Furtwangen war am Freitag, 12. Dezember 2025, ab 19.00 Uhr.
+9000000594	Der Jahresabschluss bei DL0FIS des OV A18 Furtwangen war am Freitag, 12. Dezember 2025, ab 19.00 Uhr.
 9000000595	Der OV Ludwigsburg P06 feierte seinen Jahresabschluss beim TV Pflugfelden am 15.12., ab 18:30 MEZ.
 9000000596	Der OV-P Treff auf BBB mit DL5SFC war am Montag, den 15.12.2025, um 20:00 Uhr MEZ.
 9000000597	Die OV Reutlingen P07 Jahresabschlussfeier findet am 19.12., um 19:30 Uhr statt.
@@ -938,7 +938,7 @@
 9000000938	Radar kann die Position von Flugzeugen messen.
 9000000939	Optische Kommunikation nutzt die Amplitude des Lichts.
 9000000940	Dispersion tritt auf, wenn Licht unterschiedliche Geschwindigkeiten hat.
-9000000941	Der Dämpfungsglied schützt den HF-Verstärker.
+9000000941	Das Dämpfungsglied schützt den HF-Verstärker.
 9000000942	Der Verstärker erhöht die Leistung der Funkwelle.
 9000000943	Der Splitter teilt die Leistung auf zwei Leitungen.
 9000000944	Der Combiner wird im Frequenzmultiplex eingesetzt.
